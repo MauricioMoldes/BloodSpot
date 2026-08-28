@@ -1,0 +1,11 @@
+Human NK-AML, whole bone marrow cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15434" target="_blank">GSE15434</a><br><br>
+<table>
+<tr><td><b>Short</b></td><td><b>Abbreviation</b></td></tr>
+<tr><td>Cepba+, NPM1+, FLT3-</td><td>Cepba+, NPM1+, FLT3-</td></tr>
+<tr><td>Cepba+, NPM1-, FLT3+</td><td>Cepba+, NPM1-, FLT3+</td></tr>
+<tr><td>Cepba+, NPM1-, FLT3-</td><td>Cepba+, NPM1-, FLT3-</td></tr>
+<tr><td>Cepba-, NPM1+, FLT3+</td><td>Cepba-, NPM1+, FLT3+</td></tr>
+<tr><td>Cepba-, NPM1+, FLT3-</td><td>Cepba-, NPM1+, FLT3-</td></tr>
+<tr><td>Cepba-, NPM1-, FLT3+</td><td>Cepba-, NPM1-, FLT3+</td></tr>
+<tr><td>Cepba-, NPM1-, FLT3-</td><td>Cepba-, NPM1-, FLT3-</td></tr>
+</table>

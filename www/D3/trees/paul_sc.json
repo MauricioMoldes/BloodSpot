@@ -1,0 +1,16 @@
+ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"CMP CD41","size":10}
+   ,{"name":"Cebpa control","size":10}
+   ]
+ }  , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"Cebpa KO","size":10}
+    ,{"name":"Cebpe control","size":10}
+    ]
+ }   ,{"name":"Cebpe KO","size":10}
+   ]
+ }  ]
+ } , { "name":" " , "size":2 , "children":[{"name":"Unsorted myeloid","size":10}
+  , { "name":" " , "size":2 , "children":[{"name":"CMP Flt3+ Csf1r+","size":10}
+   ,{"name":"CMP Irf8-GFP+ MHCII+","size":10}
+   ]
+ }  ]
+ } ]
+ }

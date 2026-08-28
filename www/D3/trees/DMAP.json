@@ -1,0 +1,316 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "id": 35,
+                    "name": "Plasmacytoid DC",
+                    "size": 10,
+                    "visualize":1,
+                    "draw_parent_line":1
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "id": 19,
+                                            "name": "B-cells",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        },
+                                        {
+                                            "id": 12,
+                                            "name": "B-cell class switched",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        },
+                                        {
+                                            "id": 29,
+                                            "name": "B-cell class can switch",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        }
+                                    ],
+                                    "id": 33,
+                                    "name": "Naive B-cells",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                }
+                            ],
+                            "id": 30,
+                            "name": "Pro B-cell",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        }
+                    ],
+                    "id": 3,
+                    "name": "Early B-cell",
+                    "size": 10,
+                    "visualize":1,
+                    "draw_parent_line":1
+                },
+                {
+                    "children": [
+                        {
+                            "id": 424242,
+                            "name": "NK CD56-CD16+",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "id": 1,
+                            "name": "NK CD56-CD16-",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": 32,
+                                    "name": "Naive CD8+ T-cell",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "CD8+Effec.Mem.",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                },
+                                {
+                                    "id": 20,
+                                    "name": "CD8+Effec.Mem. RA",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                }
+                            ],
+                            "id": 37,
+                            "name": "CD8+Centr.Mem.",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": 16,
+                                    "name": "CD4+Effec.Mem.",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                },
+                                {
+                                    "id": 15,
+                                    "name": "Naive CD4+ T-cell",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                }
+                            ],
+                            "id": 7,
+                            "name": "CD4+Centr.Mem.",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "id": 10,
+                            "name": "NK CD56+CD16+",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "id": 17,
+                            "name": "NKT",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        }
+                    ],
+                    "id": 4,
+                    "name": "  ",
+                    "size": 2
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "id": 14,
+                                    "name": "Monocyte",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                }
+                            ],
+                            "id": 24,
+                            "name": "CFU-Mono",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "id": 27,
+                            "name": "Myeloid DC",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "id": 22,
+                                            "name": "Megakaryocyte",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        }
+                                    ],
+                                    "id": 8,
+                                    "name": "CFU-Megakaryo",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "children": [
+                                                                {
+                                                                    "id": 38,
+                                                                    "name": "Eryth.CD34-CD71-GlyA+",
+                                                                    "size": 10,
+                                                                    "visualize":1,
+                                                                    "draw_parent_line":1
+                                                                }
+                                                            ],
+                                                            "id": 34,
+                                                            "name": "Eryth.CD34-CD71loGlyA+",
+                                                            "size": 10,
+                                                            "visualize":1,
+                                                            "draw_parent_line":1
+                                                        }
+                                                    ],
+                                                    "id": 39,
+                                                    "name": "Eryth.CD34-CD71+GlyA+",
+                                                    "size": 10,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1
+                                                }
+                                            ],
+                                            "id": 31,
+                                            "name": "Eryth.CD34-CD71+GlyA-",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        }
+                                    ],
+                                    "id": 18,
+                                    "name": "Eryth.CD34+CD71+GlyA-",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                }
+                            ],
+                            "id": 36,
+                            "name": "MEP",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": 26,
+                                                    "name": "Eosinophill",
+                                                    "size": 10,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1
+                                                },
+                                                {
+                                                    "id": 5,
+                                                    "name": "Basophils",
+                                                    "size": 10,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1
+                                                }
+                                            ],
+                                            "id": 11,
+                                            "name": " ",
+                                            "size": 2
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": 23,
+                                                    "name": "Granulo (Neutro)",
+                                                    "size": 10,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1
+                                                }
+                                            ],
+                                            "id": 21,
+                                            "name": "Gran.(Neutro Metamyelo)",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        }
+                                    ],
+                                    "id": 25,
+                                    "name": "GMP",
+                                    "size": 10,
+                                    "visualize":1,
+                                    "draw_parent_line":1
+                                }
+                            ],
+                            "id": 6,
+                            "name": "CFU-Granulo",
+                            "size": 10,
+                            "visualize":1,
+                            "draw_parent_line":1
+                        }
+                    ],
+                    "id": 9,
+                    "name": "CMP",
+                    "size": 10,
+                    "visualize":1,
+                    "draw_parent_line":1
+                }
+            ],
+            "id": 13,
+            "name": " HSC CD38- CD34+",
+            "size": 10,
+            "visualize":1,
+            "draw_parent_line":1
+        }
+    ],
+    "id": 28,
+    "name": "HSC CD133+ CD34dim",
+    "size": 10,
+    "visualize":1,
+    "draw_parent_line":1
+}

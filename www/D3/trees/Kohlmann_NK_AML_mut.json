@@ -1,0 +1,14 @@
+ {"id":5296798, "name":" " , "size":2 , "children":[ {"id":1807864, "name":" " , "size":2 , "children":[ {"id":4100335, "name":" " , "size":2 , "children":[ {"id":2511055, "name":" " , "size":2 , "children":[{"id":82000, "name":"Cepba-_ NPM1-_ FLT3+","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":4820105, "name":"Cepba-_ NPM1-_ FLT3-","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   , {"id":8420695, "name":" " , "size":2 , "children":[{"id":8815161, "name":"Cepba-_ NPM1+_ FLT3+","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":6959037, "name":"Cepba-_ NPM1+_ FLT3-","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ]
+ }  , {"id":1183650, "name":" " , "size":2 , "children":[{"id":6076588, "name":"Cepba+_ NPM1-_ FLT3-","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":7670817, "name":"Cepba+_ NPM1-_ FLT3+","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ]
+ } ,{"id":5600579, "name":"Cepba+_ NPM1+_ FLT3-","size":10 ,"draw_parent_line": 1, "visualize": 1}
+ ]
+ }

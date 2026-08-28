@@ -1,0 +1,23 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>SC.LT34F.BM</td><td>Long-Term Reconstituting Stem Cell (LT-HSC)</td><td>CD34- Flk2- Lin- ckit+ Sca1+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>SC.LTSL.BM</td><td>Long-Term Reconstituting Stem Cell</td><td>CD150+ CD48- Lin- M4.1+ CD43+ IgM- CD24- CD117+ IL7R-</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>SC.STSL.BM</td><td>Short-Term Reconstituting Stem Cell</td><td>CD150- CD48- Lin- AA4.1+ CD43+ IgM- CD24- CD117+ IL7R-</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>SC.ST34F.BM</td><td>Multipotent Progenitor (ST-HSC)</td><td>CD34+ Flk2- Lin- ckit+ Sca1+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>SC.MPP34F.BM</td><td>Multipotent Orogenitor (MPP)</td><td>CD34+ Flk2+ Lin- ckit+ Sca1+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>SC.CMP.BM</td><td>Common Myeloid Progenitor</td><td>Lin- IL7R- Sca1- ckit+ FcgRloCD34+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>SC.GMP.BM</td><td>Granulocyte-Monocyte Progenitor</td><td>Lin- IL7R- Sca1- ckit+ FcgRhiCD34+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>SC.MDP.BM</td><td>Monocyte DC Precursors (MDP)</td><td>Lin- scal- ckithiFlt3+ CD115+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>SC.CDP.BM</td><td>Common DC Precursors (CDP)</td><td>Lin- scal- ckitloFlt3+ CD115+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>SC.MEP.BM</td><td>Megakaryocyte-Erythroid Progenitor</td><td>Lin- IL7R- Sca1- ckit+ FcgRloCD34-</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MLP.BM</td><td>Multilineage Progenitor</td><td>Lin-AA4+Kit++IL7Ra-B220-</td><td>B6</td><td>Bone marrow</td></tr>
+<tr><td>proB.CLP.BM</td><td>Common Lymphoid Progenitor</td><td>Lin-AA4+Kit+IL7Ra+B220-</td><td>B6</td><td>Bone marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>proB.FrA.BM</td><td>Fr. A (pre-pro-B)</td><td>Lin-AA4+Kit+IL7Ra+B220+</td><td>B6</td><td>Bone marrow</td></tr>
+<tr><td>preT.ETP.Th</td><td>Early T lineage Precursor</td><td>4- 8- 11 b- 11c- 19- NK1.1-TCR- 44hi 117hi 25-</td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>SC.LTSL.FL</td><td>Long-Term Reconstituting Stem Cell</td><td>CD150+ CD48- Lin- M4.1+ CD43+ IgM- CD24- CD117+ IL7R-</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr><td>SC.STSL.FL</td><td>Short-Term Reconstituting Stem Cell</td><td>CD150- CD48- Lin- AA4.1+ CD43+ IgM- CD24- CD117+ IL7R-</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MLP.FL</td><td>Multilineage Progenitor</td><td>Lin-AA4+Kit++IL7Ra-B220-</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr><td>proB.CLP.FL</td><td>Common Lymphoid Progenitor</td><td>Lin-AA4+Kit+IL7Ra+B220-</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr bgcolor= "#CDE6FF"><td>proB.FrA.FL</td><td>Fr. A (pre-pro-B)</td><td>Lin-AA4+Kit+IL7Ra+B220+</td><td>B6</td><td>Fetal Liver</td></tr>
+</table>

@@ -1,0 +1,28 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>proB.CLP.BM</td><td>Common Lymphoid Progenitor</td><td>Lin-AA4+Kit+IL7Ra+B220-</td><td>B6</td><td>Bone marrow</td></tr>
+<tr><td>proB.FrA.BM</td><td>Fr. A (pre-pro-B)</td><td>Lin-AA4+Kit+IL7Ra+B220+</td><td>B6</td><td>Bone marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>proB.FrBC.BM</td><td>Fr. B/C (pro-B)</td><td>AA4+IgM-CD19+CD43+HSA+</td><td>B6</td><td>Bone marrow</td></tr>
+<tr><td>preB.FrC.BM</td><td>Fr. Cprime (cycling pre-B)</td><td>AA4+IgM-CD19+CD43+HSA++</td><td>B6</td><td>Bone marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>preB.FrD.BM</td><td>Fr D (pre-B)</td><td>AA4+IgM-CD19+CD43-HSA+</td><td>B6</td><td>Bone marrow</td></tr>
+<tr><td>B.FrE.BM</td><td>Fr. E (newly-formed B)</td><td>AA4+ IgM+ CD19+ HSA+</td><td>B6</td><td>Bone marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>proB.CLP.FL</td><td>Common Lymphoid Progenitor</td><td>Lin-AA4+Kit+IL7Ra+B220-</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr><td>proB.FrA.FL</td><td>Fr. A (pre-pro-B)</td><td>Lin-AA4+Kit+IL7Ra+B220+</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr bgcolor= "#CDE6FF"><td>proB.FrBC.FL</td><td>Fr. B/C (pro-B)</td><td>AA4+IgM-CD19+CD43+HSA+</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr><td>preB.FrD.FL</td><td>Fr D (pre-B)</td><td>AA4+IgM-CD19+CD43-HSA+</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.FrE.FL</td><td>Fr. E (newly-formed B)</td><td>AA4+ IgM+ CD19+ HSA+</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr><td>B.T1.Sp</td><td>T1 (transitional)</td><td>CD19+B220+IgM++AA4+CD23-</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.T2.Sp</td><td>T2 (transitional)</td><td>CD19+B220+IgM++AA4+CD23+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>B.T3.Sp</td><td>T3 (transitional)</td><td>CD19+B220+IgM+AA4+CD23+</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.Fo.Sp</td><td>Fo (follicuilar)</td><td>CD19+ B220+ IgM+ AA4- CD23+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>B.GC.Sp</td><td>Germinal Center B cells, Spleen</td><td>CD19+IgM+IgD-GL7+PNA+</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.MZ.Sp</td><td>MZ (Marginal Zone)</td><td>CD19+ B220+ IgM+ AA4- CD23- CD21/35+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>B1a.Sp</td><td>B-1a</td><td>CD19+ B220+ IgM+ AA4- CD23- CD43+</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.FrF.BM</td><td>Fr. F (recirc B)</td><td>AA4- IgM+ CD19+</td><td>B6</td><td>Bone marrow</td></tr>
+<tr><td>B.Fo.MLN</td><td>Mesenteric node B cells</td><td>CD19+ B220+ IgMdull AA4- CD23+ CD43- CD21/35+</td><td>B6</td><td>Mesenteric Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.Fo.LN</td><td>Lymph node B cells</td><td>CD19+ B220+ IgMdull AA4- CD23+ CD43-</td><td>B6</td><td>Lymph Node</td></tr>
+<tr><td>B.Fo.PC</td><td>Fo-type, peritoneal cavity</td><td>CD19+ IgM+ CD23+ CD43- CD5-</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B1b.PC</td><td>B-1 b, peritoneal cavity</td><td>CD19+ IgM++ CD43+ CD5-</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr><td>B1a.PC</td><td>B-1a, peritoneal cavity</td><td>CD19+ IgM++ CD43+ CD5+</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+</table>

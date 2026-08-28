@@ -1,0 +1,24 @@
+Human HSC cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17054" target="_blank">GSE17054</a><br>
+Human GMP, MEP cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19599" target="_blank">GSE19599</a><br>
+Human Monocytes cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11864" target="_blank">GSE11864</a><br>
+Human Monocytes	cells are from <a href="http://www.ebi.ac.uk/arrayexpress/experiments/E-MEXP-1242" target="_blank">E-MEXP-1242</a><br>
+Data has been batch corrected<br><br>
+<table>
+<tr><td><b>Abbreviation</b></td><td><b>Name</b></td><td><b>Immunophenotype</b></td></tr>
+<tr bgcolor= "#CDE6FF"><td>HSC_BM</td><td>Hematopoietic stem cells from bone marrow</td><td>Lin-CD34+CD38-CD90+ / CD34+CD33-CD38-Rho(lo)c-kit+</td></tr>
+<tr><td>early HPC_BM</td><td>Hematopoietic progenitor cells from bone marrow</td><td>CD34+CD33-CD38-Rho(hi) </td></tr>
+<tr bgcolor= "#CDE6FF"><td>CMP</td><td>Common myeloid progenitor cell</td><td>CD34+ CD123low CD45RA- CD110-</td></tr>
+<tr><td>GMP</td><td>Granulocyte monocyte progenitors</td><td>CD34+ CD123low CD45RA+ CD110-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MEP</td><td>Megakaryocyte-erythroid progenitor cell</td><td>CD34+ CD123low CD45RA- CD110+</td></tr>
+<tr><td>PM_BM</td><td>Promyelocyte from bone marrow</td><td>2-layer density gradient centrifugation, depletion of nongranulocytic cells by immunomagnetic sorting</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MY_BM</td><td>Myelocyte from bone marrow</td><td>2-layer density gradient centrifugation, depletion of nongranulocytic cells by immunomagnetic sorting</td></tr>
+<tr><td>PMN_BM</td><td>Polymorphonuclear cells from bone marrow</td><td>2-layer density gradient centrifugation, depletion of nongranulocytic cells by immunomagnetic sorting</td></tr>
+<tr bgcolor= "#CDE6FF"><td>PMN_PB</td><td>Polymorphonuclear cells from peripheral blood</td><td>2-layer density gradient centrifugation, depletion of nongranulocytic cells by immunomagnetic sorting</td></tr>
+<tr><td>CD14+ monocytes</td><td>CD14+ Monocytes</td><td>Ficoll density gradient, CD14 pos. Selection / Human CD14 positive Selection Kit, Stem Cell Technologies</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B cells</td><td>CD19+ B cells</td><td>EasySep&reg; Human CD19+ B cells Enrichment Kit, Stem Cell Technologies</td></tr>
+<tr><td>CD4+ T cells</td><td>CD4+ T cells</td><td>Monocytes-depleted fraction, EasySep&reg; Human CD4 Positive Selection Kit, Stem Cell Technologies</td></tr>
+<tr bgcolor= "#CDE6FF"><td>CD8+ T cells</td><td>CD8+ T cells</td><td>Human CD8+ T cells Enrichment Kit, Stem Cell Technologies</td></tr>
+<tr><td>NK cells</td><td>CD56+ natural killer cells</td><td>EasySep&reg; Human CD56+ NK cells Enrichment Kit, Stem Cell Technologies</td></tr>
+<tr bgcolor= "#CDE6FF"><td>mDC</td><td>CD11c+ myeloid dendritic cells</td><td>EasySep&reg; Human mDCs Enrichment Kit, Stem Cell Technologies</td></tr>
+<tr><td>pDC</td><td>CD123+ plasmacytoid dendritic cells</td><td>EasySep&reg; Human pDCs Enrichment Kit, Stem Cell Technologies</td></tr>
+</table>

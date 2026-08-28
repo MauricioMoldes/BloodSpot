@@ -1,0 +1,39 @@
+ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"megakaryocyte-erythroid_progenitor_cell","size":10}
+     ,{"name":"common_myeloid_progenitor","size":10}
+     ]
+ }    , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"hematopoietic_stem_cell","size":10}
+      ,{"name":"hematopoietic_multipotent_progenitor_cell","size":10}
+      ]
+ }     ,{"name":"granulocyte_monocyte_progenitor_cell","size":10}
+     ]
+ }    ]
+ }   ,{"name":"common_lymphoid_progenitor","size":10}
+   ]
+ }  , { "name":" " , "size":2 , "children":[{"name":"erythroblast","size":10}
+   ,{"name":"CD34-negative_CD41-positive_CD42-positive_megakaryocyte_cell","size":10}
+   ]
+ }  ]
+ } , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"mature_neutrophil","size":10}
+    ,{"name":"CD14-positive_CD16-negative_classical_monocyte","size":10}
+    ]
+ }   , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"CD38-negative_naive_B_cell","size":10}
+     ,{"name":"cytotoxic_CD56-dim_natural_killer_cell","size":10}
+     ]
+ }    , { "name":" " , "size":2 , "children":[{"name":"CD8-positive_alpha-beta_T_cell","size":10}
+     ,{"name":"CD4-positive_alpha-beta_T_cell","size":10}
+     ]
+ }    ]
+ }   ]
+ }  , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"inflammatory_macrophage","size":10}
+     , { "name":" " , "size":2 , "children":[{"name":"macrophage","size":10}
+      ,{"name":"alternatively_activated_macrophage","size":10}
+      ]
+ }     ]
+ }    ,{"name":"conventional_dendritic_cell","size":10}
+    ]
+ }   ,{"name":"endothelial_cell_of_umbilical_vein_proliferating","size":10}
+   ,{"name":"endothelial_cell_of_umbilical_vein_resting","size":10}
+   ]
+ }  ]
+ } ]
+ }

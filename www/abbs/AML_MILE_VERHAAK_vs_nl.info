@@ -1,0 +1,10 @@
+Human AML NK-AML and whole bone marrow cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6891" target="_blank">GSE6891</a><br>
+AML cells are compared to their nearest normal counterpart, as described in <a href="http://www.bloodjournal.org/content/123/6/894.short?sso-checked=true" target="_blank">Rapin et al. <i>Blood</i>, 2014</a><br><br>
+<table>
+<tr><td><b>Short</b></td><td><b>Abbreviation</b></td></tr>
+<tr><td>AML complex.</td><td>AML complex aberrant karyotype</td></tr>
+<tr><td>AML inv(16)</td><td>AML with inv(16)/t(16;16)</td></tr>
+<tr><td>AML t(11q23)/MLL</td><td>AML with t(11q23)/MLL</td></tr>
+<tr><td>AML t(15;17)</td><td>AML with t(15;17)</td></tr>
+<tr><td>AML t(8;21)</td><td>AML with t(8;21)</td></tr>
+</table>

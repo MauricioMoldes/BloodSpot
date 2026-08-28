@@ -1,0 +1,61 @@
+<table>
+<thead>
+  <tr>
+    <th>Abbreviation</th>
+    <th>name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>AML</td>
+    <td>Acute Myeloid Leukemia</td>
+  </tr>
+  <tr>
+    <td>AML-MRC</td>
+    <td>Acute myeloid leukemia with myelodysplasia-related changes</td>
+  </tr>
+  <tr>
+    <td>AML,Ery</td>
+    <td>Acute myeloid leukemia erythroid subtype</td>
+  </tr>
+  <tr>
+    <td>AML,non-Ery </td>
+    <td>Acute myeloid leukemia erythroid subtype</td>
+  </tr>
+  <tr>
+    <td>MDS</td>
+    <td>Myelodysplastic syndromes</td>
+  </tr>
+  <tr>
+    <td>t-AML</td>
+    <td>Therapy-related acute myeloid leukemia (t-AML)</td>
+  </tr>
+</tbody>
+</table>
+<br><br>
+<table>
+<thead>
+  <tr>
+    <th>Age Group</th>
+    <th>Age Range</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Older Adult </td>
+    <td>60+</td>
+  </tr>
+  <tr>
+    <td>Adult</td>
+    <td>40-60</td>
+  </tr>
+  <tr>
+    <td>Young Adult </td>
+    <td>18-35</td>
+  </tr>
+  <tr>
+    <td>Pediatric</td>
+    <td>0-18</td>
+  </tr>
+</tbody>
+</table>

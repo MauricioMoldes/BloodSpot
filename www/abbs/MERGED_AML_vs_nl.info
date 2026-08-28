@@ -1,0 +1,39 @@
+Human AML cells are from: 
+<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13159" target = "_blank"> GSE13159 </a>,
+<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15434" target = "_blank"> GSE15434 </a>,
+<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61804" target = "_blank"> GSE61804 </a>,
+<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14468" target = "_blank"> GSE14468 </a>,
+<a href="https://tcga-data.nci.nih.gov/tcga/tcgaHome2.jsp" target="_blank">The Cancer Genome Atlas (TCGA)</a><br><br>
+
+
+<table>
+<tr><td>Normal</td><td> AML with Normal karyotype </td></tr>
+<tr><td>Complex</td><td> AML with Complex karyotype </td></tr>
+<tr><td>inv(16)</td><td> AML with inv(16) </td></tr>
+<tr><td>t(15;17)</td><td> AML with t(15;17) </td></tr>
+<tr><td>t(8;21)</td><td> AML with t(8;21) </td></tr>
+<tr><td>t(11q23)/MLL</td><td> AML with t(11q23)/MLL </td></tr>
+<tr><td>MDS</td><td> MDS </td></tr>
+<tr><td>nan</td><td> AML with no karyotype information </td></tr>
+<tr><td>Trisomy 8</td><td> AML with Trisomy 8 </td></tr>
+<tr><td>del(5q)</td><td> AML with del(5q) </td></tr>
+<tr><td>del(7q)/7q-</td><td> AML with del(7q)/7q- </td></tr>
+<tr><td>t(9;11)</td><td> AML with t(9;11) </td></tr>
+<tr><td>Other</td><td> AML with Other abnormalities </td></tr>
+<tr><td>7</td><td> AML with +7 </td></tr>
+<tr><td>Complex_ del(5q)</td><td> AML with Complex del(5q) </td></tr>
+<tr><td>Complex_ untypical</td><td> AML with Complex untypical karyotype </td></tr>
+<tr><td>ALL</td><td> ALL </td></tr>
+<tr><td>inv(3)</td><td> AML with inv(3) </td></tr>
+<tr><td>trisomy 11</td><td> AML with trisomy 11 </td></tr>
+<tr><td>trisomy 13</td><td> AML with trisomy 13 </td></tr>
+<tr><td>t(6;9)</td><td> AML with t(6;9) </td></tr>
+<tr><td>t(8;16)</td><td> AML with t(8;16) </td></tr>
+<tr><td>del(9q)</td><td> AML with del(9q) </td></tr>
+<tr><td>t(1;3)</td><td> AML with t(1;3) </td></tr>
+<tr><td>-5/7(q)</td><td> AML with -5/7(q) </td></tr>
+<tr><td>-9q</td><td> AML with -9q </td></tr>
+<tr><td>8</td><td> AML with +8 </td></tr>
+<tr><td>t(9;22)</td><td> AML with t(9;22) </td></tr>
+<tr><td>abn(3q)</td><td> AML with abn(3q) </td></tr>
+</table>

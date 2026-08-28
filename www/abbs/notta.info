@@ -1,0 +1,18 @@
+Human normal hematopoietic cells derived from neonatal cord blood from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76234" target="_blank">GSE76234</a>
+<br><br>
+<table>
+<tr><td><b>Name</b></td><td><b>Immunophenotype</b></td></tr>
+<tr bgcolor= "#CDE6FF"><td>CMP++</td><td>CD34+CD38+CD10−FLT3+CD45RA−CD71+BAH1+</td></tr>
+<tr><td>CMP+-</td><td>CD34+CD38+CD10−FLT3+CD45RA−CD71+BAH1−</td></tr>
+<tr bgcolor= "#CDE6FF"><td>CMP--</td><td>CD34+CD38+CD10−FLT3+CD45RA−CD71−BAH1−</td></tr>
+<tr><td>GMP</td><td>CD34+CD38+CD10−FLT3+CD45RA+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>HSC</td><td>CD34+CD38−Thy1+</td></tr>
+<tr><td>MEP++</td><td>CD34+CD38+CD10−FLT3CD45RA−CD71+BAH1+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MEP+-</td><td>CD34+CD38+CD10−FLT3CD45RA−CD71+BAH1−</td></tr>
+<tr><td>MEP--</td><td>CD34+CD38+CD10−FLT3CD45RA−CD71−BAH1−</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MLP</td><td>CD34+CD38+</td></tr>
+<tr><td>MPP++</td><td>CD34+CD38−Thy1−CD45RA−CD49f−CD71+BAH1+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MPP+-</td><td>CD34+CD38−Thy1−CD45RA−CD49f−CD71+BAH1−</td></tr>
+<tr><td>MPP--</td><td>CD34+CD38−Thy1−CD45RA−CD49f−CD71−BAH1−</td></tr>
+</table>
+

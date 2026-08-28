@@ -1,0 +1,130 @@
+ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"Sporadic_Burkitt_lymphoma","size":10}
+      ,{"name":"Germinal_Center_B-Cell-Like_Diffuse_Large_B-Cell_Lymphoma","size":10}
+      ]
+ }     , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"CD3-negative_CD4-positive_CD8-positive_double_positive_thymocyte","size":10}
+       , { "name":" " , "size":2 , "children":[{"name":"Acute_Lymphocytic_Leukemia_-_CTR","size":10}
+        ,{"name":"germinal_center_B_cell","size":10}
+        ]
+ }       ]
+ }      , { "name":" " , "size":2 , "children":[{"name":"CD3-positive_CD4-positive_CD8-positive_double_positive_thymocyte","size":10}
+       ,{"name":"CD4-positive_alpha-beta_thymocyte","size":10}
+       ,{"name":"CD8-positive_alpha-beta_thymocyte","size":10}
+       ]
+ }      ]
+ }     ]
+ }    , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"Acute_Promyelocytic_Leukemia_-_CTR","size":10}
+        ,{"name":"Acute_Promyelocytic_Leukemia_-_MC2884_24h","size":10}
+        ,{"name":"Acute_Promyelocytic_Leukemia_-_MC2884_4h","size":10}
+        ,{"name":"Acute_Promyelocytic_Leukemia_-_MC2884","size":10}
+        ]
+ }       ,{"name":"Acute_Promyelocytic_Leukemia_-_ATRA","size":10}
+       ,{"name":"Acute_Promyelocytic_Leukemia_-_MC2392","size":10}
+       ]
+ }      , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"Acute_Myeloid_Leukemia_-_CTR","size":10}
+         ,{"name":"Acute_Myeloid_Leukemia","size":10}
+         ,{"name":"neutrophilic_myelocyte","size":10}
+         ]
+ }        ,{"name":"blast_forming_unit_erythroid","size":10}
+        ]
+ }       ,{"name":"T-cell_Acute_Lymphocytic_Leukemia","size":10}
+       ]
+ }      ]
+ }     , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"Acute_Myeloid_Leukemia_-_SAHA","size":10}
+       ,{"name":"mature_eosinophil","size":10}
+       ]
+ }      ,{"name":"Acute_Promyelocytic_Leukemia_-_MS-275_20h","size":10}
+      ]
+ }     ]
+ }    ]
+ }   , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"CD4-positive_alpha-beta_T_cell","size":10}
+       , { "name":" " , "size":2 , "children":[{"name":"CD8-positive_alpha-beta_T_cell","size":10}
+        ,{"name":"colony_forming_unit_erythroid","size":10}
+        ]
+ }       ]
+ }      ,{"name":"T-cell_Prolymphocytic_Leukemia","size":10}
+      ]
+ }     , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"regulatory_T_cell","size":10}
+       ,{"name":"central_memory_CD8-positive_alpha-beta_T_cell","size":10}
+       ,{"name":"central_memory_CD4-positive_alpha-beta_T_cell","size":10}
+       ,{"name":"effector_memory_CD4-positive_alpha-beta_T_cell","size":10}
+       ,{"name":"effector_memory_CD8-positive_alpha-beta_T_cell","size":10}
+       ]
+ }      , { "name":" " , "size":2 , "children":[{"name":"cytotoxic_CD56-dim_natural_killer_cell","size":10}
+       ,{"name":"effector_memory_CD8-positive_alpha-beta_T_cell_terminally_differ","size":10}
+       ]
+ }      ]
+ }     ]
+ }    , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"CD38-negative_naive_B_cell","size":10}
+      ,{"name":"memory_B_cell","size":10}
+      ,{"name":"class_switched_memory_B_cell","size":10}
+      ,{"name":"unswitched_memory_B_cell","size":10}
+      ]
+ }     , { "name":" " , "size":2 , "children":[{"name":"Mantle_Cell_Lymphoma","size":10}
+      ,{"name":"naive_B_cell","size":10}
+      ,{"name":"Chronic_Lymphocytic_Leukemia","size":10}
+      ]
+ }     ]
+ }    ]
+ }   ]
+ }  , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"mature_neutrophil","size":10}
+      ,{"name":"segmented_neutrophil_of_bone_marrow","size":10}
+      ,{"name":"mature_neutrophil_-_G-CSF/Dex._Treatment_16-20_hrs","size":10}
+      ]
+ }     ,{"name":"neutrophilic_metamyelocyte","size":10}
+     ,{"name":"band_form_neutrophil","size":10}
+     ]
+ }    , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"CD14-positive_CD16-negative_classical_monocyte","size":10}
+        ,{"name":"osteoclast","size":10}
+        ]
+ }       ,{"name":"monocyte","size":10}
+       ]
+ }      ,{"name":"monocyte_-_T=0days","size":10}
+      ]
+ }     , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"Multiple_Myeloma","size":10}
+       ,{"name":"plasma_cell","size":10}
+       ]
+ }      ,{"name":"late_basophilic_and_polychromatophilic_erythroblast","size":10}
+      ]
+ }     ]
+ }    ]
+ }   , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"macrophage","size":10}
+       ,{"name":"inflammatory_macrophage","size":10}
+       ,{"name":"alternatively_activated_macrophage","size":10}
+       ]
+ }      ,{"name":"macrophage_-_T=6days_untreated","size":10}
+      ,{"name":"macrophage_-_T=6days_B-glucan","size":10}
+      ,{"name":"macrophage_-_T=6days_LPS","size":10}
+      ]
+ }     , { "name":" " , "size":2 , "children":[{"name":"conventional_dendritic_cell","size":10}
+      ,{"name":"immature_conventional_dendritic_cell_-_GM-CSF_IL4_T=6_days","size":10}
+      ,{"name":"mature_conventional_dendritic_cell_-_GM-CSF_IL4_T=6_days_R848_T=","size":10}
+      ]
+ }     ]
+ }    , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"endothelial_cell_of_umbilical_vein_proliferating","size":10}
+      ,{"name":"endothelial_cell_of_umbilical_vein_resting","size":10}
+      ,{"name":"adult_endothelial_progenitor_cell","size":10}
+      ]
+ }     ,{"name":"mesenchymal_stem_cell_of_the_bone_marrow","size":10}
+     ]
+ }    ]
+ }   ]
+ }  ]
+ } , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"megakaryocyte-erythroid_progenitor_cell","size":10}
+    ,{"name":"common_myeloid_progenitor","size":10}
+    ]
+ }   , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"hematopoietic_stem_cell","size":10}
+       ,{"name":"hematopoietic_multipotent_progenitor_cell","size":10}
+       ]
+ }      ,{"name":"granulocyte_monocyte_progenitor_cell","size":10}
+      ]
+ }     ,{"name":"common_lymphoid_progenitor","size":10}
+     ]
+ }    ,{"name":"monocyte_-_None","size":10}
+    ]
+ }   ]
+ }  , { "name":" " , "size":2 , "children":[{"name":"erythroblast","size":10}
+   ,{"name":"CD34-negative_CD41-positive_CD42-positive_megakaryocyte_cell","size":10}
+   ]
+ }  ]
+ } ]
+ }

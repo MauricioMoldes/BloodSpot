@@ -1,0 +1,36 @@
+ {"id":1538220, "name":" " , "size":2 , "children":[ {"id":2040018, "name":" " , "size":2 , "children":[ {"id":4769540, "name":" " , "size":2 , "children":[ {"id":6781983, "name":" " , "size":2 , "children":[ {"id":4264946, "name":" " , "size":2 , "children":[{"id":8540478, "name":"Complex","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     , {"id":8504766, "name":" " , "size":2 , "children":[ {"id":2500848, "name":" " , "size":2 , "children":[ {"id":6085613, "name":" " , "size":2 , "children":[{"id":1273081, "name":"None","size":10 ,"draw_parent_line": 1, "visualize": 1}
+        ,{"id":3642085, "name":"Normal","size":10 ,"draw_parent_line": 1, "visualize": 1}
+        ]
+ }       ,{"id":3536189, "name":"Normal+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ]
+ }      ,{"id":8565737, "name":"Trisomy 8","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ]
+ }     ]
+ }    ,{"id":7965, "name":"del(7q)/7q-","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   , {"id":4605439, "name":" " , "size":2 , "children":[ {"id":1975698, "name":" " , "size":2 , "children":[ {"id":8359445, "name":" " , "size":2 , "children":[{"id":7225640, "name":"Complex+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ,{"id":9003589, "name":"del(5q)/5q-+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ]
+ }     ,{"id":6007244, "name":"del(7q)/7q-+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    ,{"id":3909983, "name":"Trisomy 8+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ]
+ }  , {"id":5314106, "name":" " , "size":2 , "children":[ {"id":9194779, "name":" " , "size":2 , "children":[{"id":527199, "name":"inv(16)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":9529221, "name":"inv(16)+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ,{"id":2739813, "name":"t(9;11)+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ]
+ } , {"id":4470752, "name":" " , "size":2 , "children":[ {"id":911448, "name":" " , "size":2 , "children":[{"id":761838, "name":"del(5q)/5q-","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   , {"id":1574197, "name":" " , "size":2 , "children":[{"id":330737, "name":"t(8;21)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":1527796, "name":"t(8;21)+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ]
+ }  , {"id":1613692, "name":" " , "size":2 , "children":[{"id":7246388, "name":"t(15;17)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":3194284, "name":"t(15;17)+other","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ]
+ } ]
+ }

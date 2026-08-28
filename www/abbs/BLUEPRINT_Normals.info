@@ -1,0 +1,12 @@
+Human normal hematopoietic cells derived from cord blood, from <a href="http://www.blueprint-epigenome.eu" target="_blank">BLUEPRINT</a>
+<br><br>
+<table>
+<tr><td><b>Name</b></td><td><b>Immunophenotype</b></td></tr>
+<tr bgcolor= "#CDE6FF"><td>HSC</td><td>Lin-CD34+CD38-CD90+CD45RA-</td></tr>
+<tr><td>MPP</td><td>Lin-CD34+CD38-CD90-CD45RA-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>CLP</td><td>Lin-CD34+CD38+CD10+CD45RA+</td></tr>
+<tr><td>CMP</td><td>Lin-CD34+CD38+IL-3RalowCD45RA-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MEP</td><td>Lin-CD34+CD38+IL-3Ra-CD45RA-</td></tr>
+<tr><td>GMP</td><td>Lin-CD34+CD38+IL-3Ra+CD45RA+</td></tr>
+</table>
+

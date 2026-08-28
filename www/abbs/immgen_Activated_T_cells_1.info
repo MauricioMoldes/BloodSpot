@@ -1,0 +1,20 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Nve.Sp.OT1</td><td>spleen OT1 tg Naive CD8</td><td>4- 8+ 45.1+ </td><td>OT-I tg</td><td>Spleen </td></tr>
+<tr><td>T.8Eff.Sp.OT1.d5.VSVOva</td><td>spleen OT1 tg effectors CD8 day 5 VSV.OVA </td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Eff.Sp.OT1.d6.VSVOva</td><td>spleen OT1 tg effectors CD8 day 6 VSV.OVA </td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr><td>T.8Eff.Sp.OT1.d8.VSVOva</td><td>spleen OT1 tg effectors CD8 day 8 VSV.OVA </td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Eff.Sp.OT1.d15.VSVOva</td><td>spleen OT1 tg effectors CD8 day 15 VSV.OVA </td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr><td>T.8Mem.Sp.OT1.d45.VSVOva</td><td>spleen OT1 tg Memory CD8 day 45 VSV.OVA </td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Mem.Sp.OT1.d106.VSVOva</td><td>spleen OT1 tg Memory CD8 day 106 VSV.OVA</td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr><td>T.8Eff.Sp.OT1.12hr.LisOva</td><td>Spleen Ot1 tg Effectors Cd8 12Hr Listeria.OVA</td><td>CD8+ CD45.2+ </td><td>OT-I CD45.2 > B6.CD45.1 </td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Eff.Sp.OT1.24hr.LisOva</td><td>Spleen Ot1 tg Effectors Cd8 24Hr Listeria.OVA</td><td>CD8+ CD45.2+ </td><td>OT-I CD45.2 > B6.CD45.1 </td><td>Spleen </td></tr>
+<tr><td>T.8Eff.Sp.OT1.48hr.LisOva</td><td>Spleen Ot1 tg Effectors Cd8 48Hr Listeria.OVA</td><td>CD8+ CD45.2+ </td><td>OT-I CD45.2 > B6.CD45.1 </td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Eff.Sp.OT1.d6.LisOva</td><td>spleen OT1 tg effectors CD8 day 6 Listeria.OVA </td><td>4- 8+ 45.1+ </td><td>OT-I tg > B6.CD45.2</td><td>Spleen </td></tr>
+<tr><td>T.8Eff.Sp.OT1.d8.LisOva</td><td>spleen OT1 tg effectors CD8 day 8 Listeria.OVA </td><td>4- 8+ 45.1+ </td><td>OT-I tg > B6.CD45.2</td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Eff.Sp.OT1.d10.LisOva</td><td>spleen OT1 tg effectors CD8 day 10 Listeria.OVA </td><td>4- 8+ 45.1+ </td><td>OT-I tg > B6.CD45.2</td><td>Spleen </td></tr>
+<tr><td>T.8Eff.Sp.OT1.d15.LisOva</td><td>spleen OT1 tg effectors CD8 day 15 Listeria.OVA </td><td>4- 8+ 45.1+ </td><td>OT-I tg > B6.CD45.2</td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Mem.Sp.OT1.d45.LisOva</td><td>spleen OT1 tg Memory CD8 day 45 Listeria.OVA </td><td>4- 8+ 45.1+ </td><td>OT-I tg > B6.CD45.2</td><td>Spleen </td></tr>
+<tr><td>T.8Mem.Sp.OT1.d100.LisOva</td><td>spleen OT1 tg Memory CD8 day 100 Listeria.OVA</td><td>4- 8+ 45.1+ </td><td>OT-I tg > B6.CD45.2</td><td>Spleen </td></tr>
+</table>

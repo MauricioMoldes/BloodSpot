@@ -1,0 +1,44 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>SC.LTSL.BM</td><td>Long-Term Reconstituting Stem Cell</td><td>CD150+ CD48- Lin- M4.1+ CD43+ IgM- CD24- CD117+ IL7R-</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>SC.STSL.BM</td><td>Short-Term Reconstituting Stem Cell</td><td>CD150- CD48- Lin- AA4.1+ CD43+ IgM- CD24- CD117+ IL7R-</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>proB.FrBC.FL</td><td>Fr. B/C (pro-B)</td><td>AA4+IgM-CD19+CD43+HSA+</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr><td>preB.FrD.FL</td><td>Fr D (pre-B)</td><td>AA4+IgM-CD19+CD43-HSA+</td><td>B6</td><td>Fetal Liver</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.Fo.Sp</td><td>Fo (follicuilar)</td><td>CD19+ B220+ IgM+ AA4- CD23+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>B.GC.Sp</td><td>Germinal Center B cells, Spleen</td><td>CD19+IgM+IgD-GL7+PNA+</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B.MZ.Sp</td><td>MZ (Marginal Zone)</td><td>CD19+ B220+ IgM+ AA4- CD23- CD21/35+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>B1a.PC</td><td>B-1a, peritoneal cavity</td><td>CD19+ IgM++ CD43+ CD5+</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.8+.Th</td><td>Thymus CD8 dendritic cell</td><td>MHCII+ CD11c+ CD8a+ CD4- CD11b-</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>DC.4+.Sp</td><td>Spleen CD4+ dendritic cell </td><td>CD11c+ CD8a- CD4+ CD11b+ </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.8+.Sp</td><td>Spleen CD8+ dendritic cell </td><td>CD11c+ CD8a+ CD4- CD11b-</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>DC.pDC.8+.Sp</td><td>Spleen CD8+ plasmacytoid dendritic cell </td><td>CDllcint CD8a+ B220+ Gr1+ </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.pDC.8-.Sp</td><td>Spleen CD8- plasmacytoid dendritic cell</td><td>CDllcint CD8a- B220+ Gr1+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>DC.LC.Sk</td><td>Epidermal/Langerhans cell</td><td>CD45+ MHCII+ CD11c+ CD11b+</td><td>B6</td><td>Skin</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.RP.Sp</td><td> Red pulp MF </td><td>B220- F4/80hi MHCllint </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>MF.Thio5.II-480hi.PC</td><td>Peritoneal MF thio-elicited day 5 </td><td>F4/80hi CD115+ MHCII-</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mo.6C+II-.Bl</td><td>Classical Monocytes, MHCII-</td><td>B220- CD43- CD115+ Ly-6C+ MHCII-</td><td>B6</td><td>Blood</td></tr>
+<tr><td>Mo.6C+II+.Bl</td><td>Classical Monocytes, MHCII+</td><td>B220- CD43- CD115+ Ly-6C+ MHCII+</td><td>B6</td><td>Blood</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mo.6C+II-.LN</td><td>Classical Monocytes, MHCII-</td><td>B220- MHCII- F4/80+ CD11c- CD1lbhi NK1.1- Grl+</td><td>B6</td><td>Subcutaneous Lymph Node</td></tr>
+<tr><td>GN.BM</td><td>Neutrophils </td><td>CD11b+ Gr1+ 7/4hi </td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK.Sp</td><td>Splenic NK cells </td><td>CD3-,NK1.1+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>NK.49CI-.Sp</td><td>Splenic NK cells, Ly49C/I- subset</td><td>CD3-,NK1.1+Ly49C/I-</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK.49CI+.Sp</td><td>Splenic NK cells, Ly49C/I+ subset </td><td>CD3-,NK1.1+Ly49C/1+ </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>NK.MCMV1.Sp</td><td>Spl. NK, dayl post MCMV </td><td>CD3-,NK1.1+</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.DPsm.Th</td><td>Double-Positive, small resting </td><td>4+ 8+ TCR-/lo FSCIo </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.4SP24-.Th</td><td>CD4 Single-Positive, Mature</td><td>4+ 8- TCRhi 24-/lo</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8SP24-.Th</td><td>CD8 Single-Positive, Mature</td><td>4- 8+ TCRhi 24-/lo </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.4Nve.Sp</td><td>Spleen Naïve CD4</td><td>4+ 8- TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4Mem.Sp</td><td>Spleen Memory-Phenotype CD4 </td><td>4+ 8- TCR+ 25- 44hi 122Io </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>T.4Nve.PP</td><td>Peyers Patches Naïve CD4</td><td>4+ 8- TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Peyers Patches </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4FP3+25+.Sp</td><td>Spleen CD25+ Foxp3+ Tregs </td><td>4+ 8- TCR+ GFP+ 25+</td><td>GFP-FoxP3 Knockin</td><td>Spleen</td></tr>
+<tr><td>T.8Nve.Sp</td><td>Spleen Naïve CD8</td><td>4- 8+ TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Mem.LN</td><td>Subcutaneous LN Memory-Phenotype CD8</td><td>4- 8+ TCR+ 25- 44hi 122hi</td><td>B6</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr><td>T.8Nve.Sp.OT1</td><td>spleen OT1 tg Naive CD8</td><td>4- 8+ 45.1+ </td><td>OT-I tg</td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Eff.Sp.OT1.d6.VSVOva</td><td>spleen OT1 tg effectors CD8 day 6 VSV.OVA </td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr><td>T.8Mem.Sp.OT1.d45.VSVOva</td><td>spleen OT1 tg Memory CD8 day 45 VSV.OVA </td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Mem.Sp.OT1.d106.VSVOva</td><td>spleen OT1 tg Memory CD8 day 106 VSV.OVA</td><td>4- 8+ 45.1+ </td><td>OT-Itg > B6.CD45.2 </td><td>Spleen </td></tr>
+<tr><td>Tgd.Th</td><td>Thymic TCRgamma-delta, All DN</td><td>TCRd+ CD4- CD8-</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.Sp</td><td>Spleen TCRgd, all DN</td><td>TCRd+ CD4- CD8- </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>Tgd.vg5+.act.IEL</td><td>i-IEL Vg5+, activated</td><td>Vg5+TCRd+CD44+CD8aa+</td><td>B6</td><td>Intestine</td></tr>
+</table>

@@ -1,0 +1,39 @@
+
+Sorted and enriched populations single cells from AML model OCI-AML8227 <a href="https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD020586" >  </a>  
+<br><br>
+<table>
+<thead>
+  <tr>
+    <th>Abbreviation</th>
+    <th>Name</th>
+    <th>Immunophenotype</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>BLAST </td>
+    <td>blasts</td>
+    <td>CD34-</td>
+  </tr>
+  <tr>
+    <td>LSC</td>
+    <td>leukemic stem cell</td>
+    <td>CD34+CD38-</td>
+  </tr>
+  <tr>
+    <td>PROG</td>
+    <td>progenitor of blast</td>
+    <td>CD34+CD38+</td>
+  </tr>
+  <tr>
+    <td>CD38+ BLAST</td>
+    <td>CD38+ blasts</td>
+    <td>CD34-CD38+</td>
+  </tr>
+  <tr>
+    <td>CD38- BLAST</td>
+    <td>CD38- blasts</td>
+    <td>CD34-CD38-</td>
+  </tr>
+</tbody>
+</table>

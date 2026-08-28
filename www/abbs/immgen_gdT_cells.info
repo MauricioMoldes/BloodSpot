@@ -1,0 +1,25 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.Th</td><td>Thymic TCRgamma-delta, All DN</td><td>TCRd+ CD4- CD8-</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>Tgd.vg2+24ahi.Th</td><td>Thymic Vg2+, Immature</td><td>Vg2+ TCRd+ CD24+ CD4- CD8-</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg1+vd6-24ahi.Th</td><td>Thymic Vg1.1+ Vd6.3-, Immature</td><td>Vg1.1+ Vd6.3- TCRd+ CD24+</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>Tgd.vg1+vd6+24ahi.Th</td><td>Thymic Vg1.1+ Vd6.3+, Immature</td><td>Vg1.1+ Vd6.3+ TCRd+ CD24+</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg5+24ahi.Th</td><td>Thymic Vg5+, Immature</td><td>Vg5+ TCRd+ CD24+</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>Tgd.vg1+vd6-24alo.Th</td><td>Thymic Vg1.1+ Vd6.3-, Mature</td><td>Vg1.1+ Vd6.3- TCRd+ CD24-</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg1+vd6+24alo.Th</td><td>Thymic Vg1.1+ Vd6.3+, Mature</td><td>Vg1.1+ Vd6.3+ TCRd+ CD24-</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>Tgd.vg2+24ahi.e17.Th</td><td>Fetal Thymus Vg2+, Immature DN</td><td>Vg2+ TCRd+ CD24+ CD4- CD8-</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg3+24ahi.e17.Th</td><td>Fetal Thymus, DEC Precursor, Immature DN</td><td>Vg3+ TCRd+ CD24+ CD4- CD8-</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>Tgd.vg3+24alo.e17.Th</td><td>Fetal Thymus, DEC Precursor, Mature DN</td><td>Vg3+ TCRd+ CD24- CD4- CD8-</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.Sp</td><td>Spleen TCRgd, all DN</td><td>TCRd+ CD4- CD8- </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>Tgd.vg2+.Sp</td><td>SpleenVg2+, resting</td><td>Vg2+TCRd+CD44- CD4-CD8-</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg2-.Sp</td><td>SpleenVg2-, resting</td><td>Vg2-TCRd+CD44- CD4-CD8-</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>Tgd.vg2+.Sp.TCRbko</td><td>Spleen Aberrant, Vg2+, resting</td><td>Vg2+TCRd+CD44- CD4-CD8-</td><td>B6 Tcrb-/-</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg2-.Sp.TCRbko</td><td>Spleen Aberrant, Vg2-, resting</td><td>Vg2-TCRd+CD44- CD4-CD8-</td><td>B6 Tcrb-/-</td><td>Spleen</td></tr>
+<tr><td>Tgd.vg2+.act.Sp</td><td>SpleenVg2+, activated</td><td>Vg2+TCRd+CD44+CD4-CD8-</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg2-.act.Sp</td><td>SpleenVg2-, activated</td><td>Vg2-TCRd+CD44+ CD4-CD8-</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>Tgd.vg5+.IEL</td><td>i-IEL Vg5+, resting</td><td>Vg5+TCRd+CD44-CD8aa+</td><td>B6</td><td>Intestine</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg5-.IEL</td><td>i-IEL Vg5-, resting</td><td>Vg5- TCRd+ CD44-CD8aa+</td><td>B6</td><td>Intestine</td></tr>
+<tr><td>Tgd.vg5+.act.IEL</td><td>i-IEL Vg5+, activated</td><td>Vg5+TCRd+CD44+CD8aa+</td><td>B6</td><td>Intestine</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Tgd.vg5-.act.IEL</td><td>i-IEL Vg5-, activated</td><td>Vg5- TCRd+ CD44+CD8aa+</td><td>B6</td><td>Intestine</td></tr>
+</table>

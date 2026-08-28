@@ -1,0 +1,10 @@
+ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"AML with t(15;17)","size":10}
+  , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"AML with inv(16)/t(16;16)","size":10}
+    ,{"name":"AML with t(11q23)/MLL","size":10}
+    ]
+ }   ,{"name":"AML with t(8;21)","size":10}
+   ]
+ }  ]
+ } ,{"name":"AML complex aberrant karyotype","size":10}
+ ]
+ }

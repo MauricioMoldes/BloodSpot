@@ -1,0 +1,48 @@
+ {"id":8246940, "name":" " , "size":2 , "children":[ {"id":5358428, "name":" " , "size":2 , "children":[ {"id":548140, "name":" " , "size":2 , "children":[ {"id":4128594, "name":" " , "size":2 , "children":[ {"id":434637, "name":" " , "size":2 , "children":[ {"id":7575326, "name":" " , "size":2 , "children":[{"id":3100928, "name":"MF.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ,{"id":5310009, "name":"Mo.6C+II-.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ,{"id":3025901, "name":"Mo.6C-II-.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ]
+ }     , {"id":9654111, "name":" " , "size":2 , "children":[ {"id":6274831, "name":" " , "size":2 , "children":[{"id":4836815, "name":"MF.RP.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ,{"id":1096861, "name":"MF.Lu","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ]
+ }      , {"id":8069869, "name":" " , "size":2 , "children":[{"id":2288887, "name":"MF.103-11b+.Lu","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ,{"id":1024447, "name":"MF.Microglia.CNS","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ]
+ }      ]
+ }     ]
+ }    , {"id":6279436, "name":" " , "size":2 , "children":[ {"id":7112581, "name":" " , "size":2 , "children":[{"id":9360114, "name":"MF.II-480hi.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ,{"id":3127438, "name":"MF.II+480lo.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ,{"id":5554171, "name":"MF.Thio5.II+480lo.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ]
+ }     , {"id":1554403, "name":" " , "size":2 , "children":[{"id":4708650, "name":"MF.Thio5.II+480int.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ,{"id":9687200, "name":"MF.Thio5.II-480int.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ,{"id":9979161, "name":"MF.Thio5.II-480hi.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ]
+ }     ]
+ }    ]
+ }   , {"id":218283, "name":" " , "size":2 , "children":[ {"id":8161077, "name":" " , "size":2 , "children":[{"id":3467247, "name":"Mo.6C+II-.Bl","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":6510071, "name":"Mo.6C+II+.Bl","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":581922, "name":"Mo.6C-II-.Bl","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":4372478, "name":"Mo.6C-IIint.Bl","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    , {"id":4151181, "name":" " , "size":2 , "children":[{"id":2877842, "name":"Mo.6C-II+.Bl","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":5421199, "name":"Mo.6C+II-.LN","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    ]
+ }   ]
+ }  ,{"id":6715433, "name":"MF.103-11b+.SI","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  ,{"id":7337806, "name":"MF.11cloSer.SI","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  ,{"id":8362611, "name":"MF.103-11b+.Salm3.SI","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  ,{"id":8653247, "name":"MF.11cloSer.Salm3.SI","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  ]
+ } , {"id":9250921, "name":" " , "size":2 , "children":[{"id":7693797, "name":"GN.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  ,{"id":1221749, "name":"GN.Arth.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  , {"id":5222991, "name":" " , "size":2 , "children":[ {"id":5832433, "name":" " , "size":2 , "children":[{"id":8813434, "name":"GN.Bl","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":8892516, "name":"GN.Arth.SynF","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ,{"id":3524020, "name":"GN.UrAc.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":5781919, "name":"GN.Thio.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ]
+ } ]
+ }

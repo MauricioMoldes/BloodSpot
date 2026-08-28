@@ -1,0 +1,20 @@
+Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60101" target="_blank">GSE60101</a><br><br>
+<table>
+<tr><td><b>Abbreviation</b></td><td><b>Name</b></td><td><b>Immunophenotype</b></td></tr>
+<tr bgcolor= "#CDE6FF"><td>LT-HSC</td><td>Long Term Hematopoietic Stem Cell</td><td>Lin-, ckit+, Sca1+, Flk2-, CD34-</td></tr>
+<tr><td>HSC</td><td>Hematopoietic Stem Cell</td><td>Lin-, ckit+, Sca1+, Flk2-, CD34+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MPP</td><td>Multipotent Progenitor </td><td>Lin-, ckit+, Sca1+, Flk2+, CD34+</td></tr>
+<tr><td>CLP</td><td>Common Lymphoid Progenitor </td><td> Lin-, ckit+, Flk2+, Il7R+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>CMP</td><td>Common Myeloid Progenitor </td><td>Lin-, ckit+, Sca1-, CD34+, FcgRIII int</td></tr>
+<tr><td>GMP</td><td>Granulocyte Monocyte Progenitor</td><td>Lin-, ckit+, Sca1-, CD34+, FcgRIII high</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Macro</td><td> Bone Marrow Macrophages</td><td>B220-, CD3-, NK1.1-, F4/80+, CD115-, low SSC</td></tr>
+<tr><td>Granu</td><td>Granulocytes</td><td>B220-, CD3-, NK1.1-, Gr1+, high SSC</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mono</td><td>Monocytes</td><td> B220-, CD3-, NK1.1-, CD115+, low SSC</td></tr>
+<tr><td>B_cells</td><td> B cells</td><td>B220+, CD3-, CD19+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T_CD4+</td><td>T CD4+ cells</td><td>B220-, CD3+, CD19-, CD4+, CD8-</td></tr>
+<tr><td>T_CD8+</td><td> T CD8+ cells</td><td> B220-, CD3+, CD19-, CD4-, CD8+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK</td><td>NK Cells</td><td>B220-, CD3-, CD19-, CD4-, CD8-, Terr119-, TCRbeta-, NK1.1+</td></tr>
+<tr><td>MEP</td><td>Megakaryocitic erythroyd progenitor</td><td>Lin-, ckit+, Sca1-, Flk2-, CD34-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Ery_A</td><td>Erythrocytes A</td><td>B220-, CD3-, Ter119+, CD71+</td></tr>
+<tr><td>Ery_B</td><td> Erythrocytes B </td><td> B220-, CD3-, Ter119+, CD71-</td></tr>
+</table>

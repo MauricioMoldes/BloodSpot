@@ -1,0 +1,16 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>NK.Sp</td><td>Splenic NK cells </td><td>CD3-,NK1.1+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>NK.49CI-.Sp</td><td>Splenic NK cells, Ly49C/I- subset</td><td>CD3-,NK1.1+Ly49C/I-</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK.49CI+.Sp</td><td>Splenic NK cells, Ly49C/I+ subset </td><td>CD3-,NK1.1+Ly49C/1+ </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>NK.49H-.Sp</td><td>Splenic NK cells, Ly49H- subset </td><td>CD3-,NK1.1+Ly49H-</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK.49H+.Sp</td><td>Splenic NK cells, Ly49H+ subset </td><td>CD3-,NK1.1+Ly49H+ </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>NK.MCMV1.Sp</td><td>Spl. NK, dayl post MCMV </td><td>CD3-,NK1.1+</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK.MCMV7.Sp</td><td>Spl. NK, day7 post MCMV </td><td>CD3-,NK1.1+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>NK.H+.MCMV1.Sp</td><td>Ly49H+ Spl. NK, dayl post MCMV </td><td>CD3-,NK1.1+Ly49H+</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK.H+.MCMV7.Sp</td><td>Ly49H+ Spl. NK, day7 post MCMV </td><td>CD3-,NK1.1+Ly49H+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>NK.b2m-.Sp</td><td>Splenic NK cells </td><td>CD3-,NK1.1+ </td><td>nan</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK.DAP10-.Sp</td><td>Splenic NK cells </td><td>CD3-,NK1.1+ </td><td>B6.DAP10-/-</td><td>Spleen</td></tr>
+<tr><td>NK.DAP12-.Sp</td><td>Splenic NK cells </td><td>CD3-,NK1.1+ </td><td>B6.DAP12-/-</td><td>Spleen</td></tr>
+</table>

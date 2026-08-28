@@ -1,0 +1,14 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>Ep.MEChi.Th</td><td>Medullary epithelial cells, MHC II hi</td><td>CD45- EpCAM+ Ly51- MHCIIhi</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>Fi.MTS15+.Th</td><td>Thymic fibroblasts, MTS 15+</td><td>CD45- PDGFRa+ MTS15+</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Fi.Sk</td><td>skin fibroblast</td><td>CD45- CD31- gp38+ PDGFRa+</td><td>B6</td><td>Skin</td></tr>
+<tr><td>FRC.MLN</td><td>mesenteric lymph node fibroblastic reticular cell</td><td>CD45- CD31- gp38+ PDGFRa+</td><td>B6</td><td>Mesenteric Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>FRC.SLN</td><td>cutaneous lymph node fibroblastic reticular cell</td><td>CD45- CD31- gp38+ PDGFRa+</td><td>B6</td><td>Subcutaneous Lymph Node</td></tr>
+<tr><td>LEC.MLN</td><td>mesenteric lymph node lymphatic endothelial cell </td><td>CD45- CD31+ gp38+</td><td>B6</td><td>Mesenteric Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>LEC.SLN</td><td>cutaneous lymph node lymphatic endothelial cell </td><td>CD45- CD31+ gp38+</td><td>B6</td><td>Subcutaneous Lymph Node</td></tr>
+<tr><td>BEC.MLN</td><td>mesenteric lymph node blood endothelial cell </td><td>CD45- CD31+ gp38-</td><td>B6</td><td>Mesenteric Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>BEC.SLN</td><td>cutaneous lymph node blood endothelial cell </td><td>CD45- CD31+ gp38-</td><td>B6</td><td>Subcutaneous Lymph Node</td></tr>
+<tr><td>St.31-38-44-.SLN</td><td>cutaneous lymph node CD44- double negative stromal cell</td><td>CD45- gp38- CD31- CD44-</td><td>B6</td><td>Subcutaneous Lymph Node</td></tr>
+</table>

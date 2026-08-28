@@ -1,0 +1,134 @@
+Mouse Normal Hematopoiescells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14833" target="_blank">GSE14833</a> and <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6506" target="_blank">GSE6506</a><br>
+Data has been batch corrected<br><br>
+<table>
+   <tr>
+      <td><b>Short</b></td>
+      <td><b>Abbreviation</b></td>
+      <td> <b>Phenotype </b> </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>B-Cell</td>
+      <td>B-Cell</td>
+      <td>           CD19+ 33D1−  </td>
+   </tr>
+   <tr>
+      <td>CD4</td>
+      <td>CD4 T-cells</td>
+      <td>    CD4+ CD25− CD69−         </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>CD4 activated</td>
+      <td>Activated CD4 positive T-cells</td>
+      <td>    enriched naive T cells with Concanavalin A (1 μg/ml, Sigma) for 8–11 hr followed by sorting for CD25+ and CD69+        </td>
+   </tr>
+   <tr>
+      <td>CD8 activated</td>
+      <td>Activated CD8 positive T-cells</td>
+      <td>    enriched naive T cells with Concanavalin A (1 μg/ml, Sigma) for 8–11 hr followed by sorting for CD25+ and CD69+        </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>CD8 naive</td>
+      <td>Naive CD8 positive T-cells</td>
+      <td>  CD8+ CD25− CD69−          </td>
+   </tr>
+   <tr>
+      <td>CFUE</td>
+      <td>Colony-forming unit erythroid cells</td>
+      <td>       c-kit+ Lin− Sca1−  CD150- FcgRlow CD105high Ter119-     </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>CLP</td>
+      <td>Common lymphoid progenitor cells</td>
+      <td>            </td>
+   </tr>
+   <tr>
+      <td>ETP</td>
+      <td>Early T-cell progenitor</td>
+      <td>            </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>GMP</td>
+      <td>Granulocyte monocyte progenitors</td>
+      <td>  c-kit+ Lin− Sca1−  CD150- FcgRhigh   </td>
+   </tr>
+   <tr>
+      <td>Granulocytes</td>
+      <td>Granulocytes</td>
+      <td>    Gr-1+ clone 7/4+ (Cedarlane Labs) CD2− CD5− B220− F4/80− (eBiosciences) ICAM-1− Ter-119−         </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>IgM+SP</td>
+      <td>Immunoglobulin M positive side population cells</td>
+      <td>            </td>
+   </tr>
+   <tr>
+      <td>LMPP</td>
+      <td>Lymphoid-primed multipotential progenitors</td>
+      <td>   c-kit+ Lin− Sca1+  CD34+ flk2+     </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>LT-HSC</td>
+      <td>Long term Hematopoietic stem cell</td>
+      <td> c-kit+ Lin− Sca1+  CD34− flk2−         </td>
+   </tr>
+   <tr>
+      <td>MkE</td>
+      <td>Megakaryocyte erythroid precursors</td>
+      <td>            </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>MkP</td>
+      <td>Megakaryocyte precursor</td>
+      <td>            </td>
+   </tr>
+   <tr>
+      <td>Monocyte</td>
+      <td>Monocytes</td>
+      <td>         Mac-1+  </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>NK cells</td>
+      <td>CD56+ natural killer cells</td>
+      <td>       CD56+     </td>
+   </tr>
+   <tr>
+      <td>NKmature</td>
+      <td>Mature natural killer cells</td>
+      <td>       Nk1.1+ CD3−       </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>Nucleated Erythrocytes</td>
+      <td>Nucleated Erythrocytes</td>
+      <td>      Ter-119+ CD3− CD4− CD8− Mac-1− Gr-1− B220−      </td>
+   </tr>
+   <tr>
+      <td>PreB</td>
+      <td>Pre-B cell</td>
+      <td>            </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>PreCFUE</td>
+      <td>Pre-colony-forming unit erythroid cells</td>
+      <td>       c-kit+ Lin− Sca1−  CD150+ FcgRlow CD105hign     </td>
+   </tr>
+   <tr>
+      <td>ProB</td>
+      <td>Pro-B cell</td>
+      <td>            </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>ProE</td>
+      <td>Erythroid progenitor cells</td>
+      <td>      c-kit+ Lin− Sca1−  CD150- FcgRlow CD105high CD71+ Ter119+       </td>
+   </tr>
+   <tr>
+      <td>ST-HSC</td>
+      <td>Short term Hematopoietic stem cell</td>
+      <td> c-kit+ Lin− Sca1+   CD34+ flk2−          </td>
+   </tr>
+   <tr bgcolor= "#CDE6FF">
+      <td>preGM</td>
+      <td>pre-granulocyte monocyte</td>
+      <td>     c-kit+ Lin− Sca1−  CD150- FcgRlow CD105low         </td>
+   </tr>
+</table>

@@ -1,0 +1,34 @@
+ {"id":365963, "name":" " , "size":2 , "children":[ {"id":4683181, "name":" " , "size":2 , "children":[ {"id":8525235, "name":" " , "size":2 , "children":[ {"id":1231573, "name":" " , "size":2 , "children":[ {"id":9958116, "name":" " , "size":2 , "children":[{"id":1550678, "name":"ALL t(12;21)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":4123565, "name":"ALL hyperdiploid.","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    ,{"id":6912849, "name":"ALL t(1;19)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   , {"id":5724684, "name":" " , "size":2 , "children":[ {"id":2922169, "name":" " , "size":2 , "children":[{"id":5570289, "name":"Pro-B-ALL t(11q23)/MLL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":8703503, "name":"c-/Pre-B-ALL t(9;22)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":7934204, "name":"c-/Pre-B-ALL no t(9;22)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    ,{"id":9414955, "name":"T-ALL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ]
+ }  ,{"id":763179, "name":"CLL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  ]
+ } , {"id":749531, "name":" " , "size":2 , "children":[ {"id":7311246, "name":" " , "size":2 , "children":[ {"id":4245657, "name":" " , "size":2 , "children":[ {"id":3240398, "name":" " , "size":2 , "children":[ {"id":4832173, "name":" " , "size":2 , "children":[ {"id":7926370, "name":" " , "size":2 , "children":[ {"id":7683243, "name":" " , "size":2 , "children":[{"id":9533595, "name":"AML normal karyotype.","size":10 ,"draw_parent_line": 1, "visualize": 1}
+        ,{"id":2819996, "name":"AML MLL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+        ]
+ }       ,{"id":8218321, "name":"AML inv(16)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ]
+ }      ,{"id":8586389, "name":"AML t(8;21)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+      ]
+ }     ,{"id":2577276, "name":"AML complex.","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    ,{"id":3344762, "name":"AML t(15;17)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ,{"id":6019199, "name":"B-ALL with t(8;14)","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  , {"id":4240614, "name":" " , "size":2 , "children":[{"id":4251909, "name":"CML","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":2594143, "name":"MDS","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":391953, "name":"Healthy bone marrow","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ]
+ } ]
+ }

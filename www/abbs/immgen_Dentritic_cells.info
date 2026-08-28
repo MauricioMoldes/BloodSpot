@@ -1,0 +1,40 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>DC.8-.Th</td><td>Thymus double negative dendritic cell</td><td>MHCII+ CD11c+ CD8a- CD4- CD11b-</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>DC.8+.Th</td><td>Thymus CD8 dendritic cell</td><td>MHCII+ CD11c+ CD8a+ CD4- CD11b-</td><td>B6</td><td>Thymus</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.4+.Sp</td><td>Spleen CD4+ dendritic cell </td><td>CD11c+ CD8a- CD4+ CD11b+ </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>DC.8+.Sp</td><td>Spleen CD8+ dendritic cell </td><td>CD11c+ CD8a+ CD4- CD11b-</td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.8-4-11b-.Sp</td><td>Spleen triple negative dendritic cell</td><td>CD11c+ CD8a- CD4- CD11b-</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>DC.8-4-11b+.Sp</td><td>Spleen double negative dendritic cell</td><td>CD11c+ CD8a- CD4- CD11b+ </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.pDC.8-.Sp</td><td>Spleen CD8- plasmacytoid dendritic cell</td><td>CDllcint CD8a- B220+ Gr1+</td><td>B6</td><td>Spleen</td></tr>
+<tr><td>DC.pDC.8+.Sp</td><td>Spleen CD8+ plasmacytoid dendritic cell </td><td>CDllcint CD8a+ B220+ Gr1+ </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.4+.SLN</td><td>Skin draining LN CD4+dendritic cell</td><td>CD11c+ CD8a- CD4+ CD11b+ </td><td>B6</td><td>Skin-draining Lymph Node</td></tr>
+<tr><td>DC.8+.SLN</td><td>Skin draining LN CD8+ dendritic cell</td><td>CD11c+ CD8a+ CD4- CD11b-</td><td>B6</td><td>Skin-draining Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.8-4-11b-.SLN</td><td>Skin draining LN triple negative dendritic cell</td><td>CD11c+ CD8a- CD4- CD11b-</td><td>B6</td><td>Skin-draining Lymph Node</td></tr>
+<tr><td>DC.8-4-11b+.SLN</td><td>Skin draining LN double negative dendritic cell</td><td>CD11c+ CD8a- CD4- CD11 b+ </td><td>B6</td><td>Skin-draining Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.pDC.8+.SLN</td><td>Skin draining LN CD8+ plasmacytoid dendritic cell</td><td>CDllcint CD8a+ B220+ Gr1+ </td><td>B6</td><td>Skin-draining Lymph Node</td></tr>
+<tr><td>DC.IIhilang-103-11blo.SLN</td><td>Skin draining LN MHCIIhi langerin- CD103- CD11b- dendritic cell </td><td>CD11c+ MHCIIhi langerin- CD103- CD11b-</td><td>B6.langerin GFP</td><td>Skin-draining Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.IIhilang-103-11b+.SLN</td><td>Skin draining LN MHCIIhi langerin- CD103- CD11b+ dendritic cell </td><td>CD11c+ MHCIIhi langerin- CD103- CD11b+</td><td>B6.langerin GFP</td><td>Skin-draining Lymph Node</td></tr>
+<tr><td>DC.IIhilang+103+11blo.SLN</td><td>Skin draining LN MHCIIhi langerin+ CD103+ CD1lblo dendritic cell </td><td>CD11c+ MHCIIhi langerin+ CD103+ CD1lblo</td><td>B6.langerin GFP</td><td>Skin-draining Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.IIhilang+103-11b+.SLN</td><td>Skin draining LN MHCIIhi langerin+ CD103- CD11b+ dendritic cell </td><td>CD11c+ MHCIIhi langerin+ CD103- CD11b+</td><td>B6.langerin GFP</td><td>Skin-draining Lymph Node</td></tr>
+<tr><td>DC.4+.MLN</td><td>Mesenteric LN CD4+ dendritic cell </td><td>CD11c+ CD8a- CD4+ CD11b+ </td><td>B6</td><td>Mesenteric Lymph Node </td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.8+.MLN</td><td>Mesenteric LN CD8+ dendritic cell </td><td>CD11c+ CD8a+ CD4- CD11b-</td><td>B6</td><td>Mesenteric Lymph Node </td></tr>
+<tr><td>DC.8-4-11b-.MLN</td><td>Mesenteric LN triple negative dendritic cell</td><td>CD11c+ CD8a- CD4- CD11 b-</td><td>B6</td><td>Mesenteric Lymph Node </td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.8-4-11b+.MLN</td><td>Mesenteric LN double negative dendritic cell </td><td>CD11c+ CD8a- CD4- CD11b+ </td><td>B6</td><td>Mesenteric Lymph Node </td></tr>
+<tr><td>DC.pDC.8+.MLN</td><td>Mesenteric LN CD8+ plasmacytoid dendritic cell</td><td>CD1lcint CD8a+ B220+ Gr1+</td><td>B6</td><td>Mesenteric Lymph Node </td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.LC.Sk</td><td>Epidermal/Langerhans cell</td><td>CD45+ MHCII+ CD11c+ CD11b+</td><td>B6</td><td>Skin</td></tr>
+<tr><td>DC.103-11b+.Lv</td><td>Liver CD11b+ macrophage </td><td>CD45+ CD11c+ MHCII + CD1lbhi CD103-</td><td>B6</td><td>Liver</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.103+11b-.Lv</td><td>Liver CD103+ dendritic cells</td><td>CD45+ CD11c+ MHCII+ CD1lblo CD103+ </td><td>B6</td><td>Liver</td></tr>
+<tr><td>DC.103+11b-.LuLN</td><td>Mediastinal LN CD103+ Dendritic Cell</td><td>CD11c+ MHCIIhi CD103+ CD11b-</td><td>B6</td><td>Mediastinal Lymph Node</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.103-11b+.LuLN</td><td>Mediastinal LN CD11b+ Dendritic Cell</td><td>CD11c+ MHCIIhi CD103- CD11b+</td><td>B6</td><td>Mediastinal Lymph Node</td></tr>
+<tr><td>DC.103-11b+24+.Lu</td><td>Lung CD11b+24+ dendritic cells</td><td>MHCII+ CD11c+ CD1lbhi CD103- CD24+ </td><td>B6</td><td>Lung</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.103+11b-.Lu</td><td>Lung CD103+ dendritic cells</td><td>CD11c+ MHCIIhi CD103+ CD11b- SiglecF-</td><td>B6</td><td>Lung</td></tr>
+<tr><td>DC.103-11b+.PolyIC.Lu</td><td>Lung CD11b+ dendritic cells +Poly(I:C)</td><td>MHCII+ CD11c+ CD1lbhi CD103-</td><td>B6</td><td>Lung</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.103+11b-.PolyIC.Lu</td><td>Lung CD103+ dendritic cells +Poly(I:C)</td><td>MHCII+ CD11c+ CD11 blo CD103+</td><td>B6</td><td>Lung</td></tr>
+<tr><td>DC.103-11b+F4/80lo.Kd</td><td>Kidney CD11b+ F4/8010 dendritic cells (P7, CD11b hi)</td><td>CD45+ CD3- B220- NKp46- CD11c+ MHCII+ CD11b+ F4/80lo</td><td>B6</td><td>Kidney</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.103+11b-.SI</td><td>Small intestine CD103+CD11b- dendritic cells</td><td>PI- CD45+ MHCII+ CD1lchi CD103+ CD11b-</td><td>B6</td><td>Small Intestine</td></tr>
+<tr><td>DC.103+11b+.SI</td><td>Small intestine lamina propria CD103+ CD11b+ dendritic cells</td><td>PI- CD45+ MHCII+ CD1lchi CD103+ CD11b+ </td><td>B6</td><td>Small Intestine</td></tr>
+<tr bgcolor= "#CDE6FF"><td>DC.103+11b-.Salm3.SI</td><td>Small intestine CD103+CD11b- DCs isolated Wm mice infected with salmonella typhimurium, day 3 PA </td><td>CD45+ MHCII+ CD1lchi CD11b- CD103+ CD8+ </td><td>B6</td><td>Small Intestine</td></tr>
+<tr><td>DC.103+11b+.Salm3.SI</td><td>Small intestine CD103+CD1 1 DCs isolated from mice infected with salmonella typhimurium, day 3 PA </td><td>CD45+ MHCII+ CD1lchi CD11b+ CD103+ </td><td>B6</td><td>Small Intestine</td></tr>
+</table>

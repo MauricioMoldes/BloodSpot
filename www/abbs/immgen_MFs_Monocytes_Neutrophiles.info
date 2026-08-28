@@ -1,0 +1,33 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>MF.BM</td><td>Bone marrow macrophages </td><td>B220- CD3- Ly-6C- CD115int F4/80+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>MF.RP.Sp</td><td> Red pulp MF </td><td>B220- F4/80hi MHCllint </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.Lu</td><td>Lung macrophage</td><td>CD11c+ MHCII- CD1 1 b- CD103- SiglecF+ </td><td>B6</td><td>Lung</td></tr>
+<tr><td>MF.103-11b+.Lu</td><td>Lung CD11b+24- macrophage </td><td>MHCII+ CD11c+ CD1lbhi CD103- CD24- </td><td>B6</td><td>Lung</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.II-480hi.PC</td><td>Peritoneal MF steady state</td><td>F4/80hi CD 115h1 MHCII-</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr><td>MF.II+480lo.PC</td><td>Peritoneal macrophage steady state</td><td>B220- F4/8010 CD115+ MHCII+</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.Microglia.CNS</td><td>Central nervous system microglia</td><td>CD45Io CD11b+ F4/80+</td><td>B6</td><td>Brain</td></tr>
+<tr><td>MF.Thio5.II+480int.PC</td><td>Peritoneal MF thio-elicited day 5 </td><td>F4/80int CD115+ MHCII+ </td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.Thio5.II-480int.PC</td><td>Peritoneal MF thio-elicited day 5 </td><td>F4/80int CD115+ MHCII-</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr><td>MF.Thio5.II-480hi.PC</td><td>Peritoneal MF thio-elicited day 5 </td><td>F4/80hi CD115+ MHCII-</td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.Thio5.II+480lo.PC</td><td>Peritoneal DC thio-elicited day 5 </td><td>F4/80b CD115+ MHCII+ </td><td>B6</td><td>Peritoneal Cavity</td></tr>
+<tr><td>MF.103-11b+.SI</td><td>Small Intestine Lamina Propria CD103- CD11b+ Macrophages</td><td>PI- CD45+ MHCII+ CD11chi CD103- CD11b+</td><td>B6</td><td>Small Intestine</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.11cloSer.SI</td><td>Small intestine serosal macrophage</td><td>PI- CD45+ MHCII+ CD11 clo CD103- CD11b+ </td><td>B6</td><td>Small Intestine</td></tr>
+<tr><td>MF.103-11b+.Salm3.SI</td><td>Small intestine CD103-CD11 MFs isolated from mice infected with salmonella typhimurium, day 3 PA </td><td>CD45+ MHCII+ CD1lchi CD11b+ CD103</td><td>B6</td><td>Small Intestine</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MF.11cloSer.Salm3.SI</td><td>Small intestine serosal MFs isolated hum mice infected with salmonella typhimunum, day 3 PA </td><td>CD45+ MHCII+ CD11clo CD11b+ CD103-</td><td>B6</td><td>Small Intestine</td></tr>
+<tr><td>Mo.6C+II-.BM</td><td>Classical Monocytes</td><td>B220- CD3- CD115+ Ly-6C+ MHCII-</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mo.6C-II-.BM</td><td>Nonclassical Monocytes</td><td>B220- CD3- CD115+ Ly-6C- MHCII- CD43+</td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>Mo.6C+II-.Bl</td><td>Classical Monocytes, MHCII-</td><td>B220- CD43- CD115+ Ly-6C+ MHCII-</td><td>B6</td><td>Blood</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mo.6C+II+.Bl</td><td>Classical Monocytes, MHCII+</td><td>B220- CD43- CD115+ Ly-6C+ MHCII+</td><td>B6</td><td>Blood</td></tr>
+<tr><td>Mo.6C-II-.Bl</td><td>Nonclassical Monocytes, MHCII-</td><td>B220- CD43+ CD115+ Ly-6C- MHCII-</td><td>B6</td><td>Blood</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mo.6C-II+.Bl</td><td>Nonclassical Monocytes, MHCIIhi</td><td>B220- CD43- CD115+ Ly-6C- MHCIIhi</td><td>B6</td><td>Blood</td></tr>
+<tr><td>Mo.6C-IIint.Bl</td><td>Nonclassical Monocytes, MHCllint</td><td>B220- CD43+ CD115+ Ly-6C- MHCllint</td><td>B6</td><td>Blood</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mo.6C+II-.LN</td><td>Classical Monocytes, MHCII-</td><td>B220- MHCII- F4/80+ CD11c- CD1lbhi NK1.1- Grl+</td><td>B6</td><td>Subcutaneous Lymph Node</td></tr>
+<tr><td>GN.BM</td><td>Neutrophils </td><td>CD11b+ Gr1+ 7/4hi </td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>GN.Bl</td><td>Neutrophils from Blood</td><td>CD11b+ Ly6-G+ </td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>GN.Arth.BM</td><td>Neutrophils, Arthritic  </td><td>CD11b+ Ly6-G+ </td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>GN.Arth.SynF</td><td>Neutrophils, Synovial Fluid </td><td>CD11b+ Ly6-G+ </td><td>B6</td><td>Bone Marrow</td></tr>
+<tr><td>GN.UrAc.PC</td><td>Neutrophils, Uric Acid </td><td>CD11b+ Ly6-G+ </td><td>B6</td><td>Bone Marrow</td></tr>
+<tr bgcolor= "#CDE6FF"><td>GN.Thio.PC</td><td>Neutrophils, Thioglycolate</td><td>CD11b+ Ly6-G+ </td><td>B6</td><td>Bone Marrow</td></tr>
+</table>

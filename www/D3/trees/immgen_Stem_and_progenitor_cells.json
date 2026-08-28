@@ -1,0 +1,168 @@
+{
+    "id":1 ,
+    "size":1,
+    "visualize":0,
+    "draw_parent_line":1,
+    "name": "",
+    "children": [
+        {
+            "id":2 ,
+            "size":1,
+            "visualize":1,
+            "draw_parent_line":0,
+            "name": "SC.LT34F.BM",
+            "children": [
+                {
+                    "id":3 ,
+                    "size":1,
+                    "visualize":1,
+                    "draw_parent_line":1,
+                    "name": "SC.ST34F.BM"
+                }
+            ]
+        },
+        {
+            "id":4 ,
+            "size":1,
+            "visualize":1,
+            "draw_parent_line":0,
+            "name": "SC.LTSL.BM",
+            "children": [
+                {
+                    "id":5 ,
+                    "size":1,
+                    "visualize":1,
+                    "draw_parent_line":1,
+                    "name": "SC.STSL.BM",
+                    "children": [
+                        {
+                            "id":6 ,
+                            "size":1,
+                            "visualize":1,
+                            "draw_parent_line":1,
+                            "name": "SC.MPP34F.BM",
+                            "children": [
+                                {
+                                    "id":7 ,
+                                    "size":1,
+                                    "visualize":1,
+                                    "draw_parent_line":1,
+                                    "name": "MLP.BM",
+                                    "children": [
+                                        {
+                                            "id":8 ,
+                                            "size":1,
+                                            "visualize":1,
+                                            "draw_parent_line":1,
+                                            "name": "SC.CMP.BM",
+                                            "children": [
+                                                {
+                                                    "id":9 ,
+                                                    "size":1,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1,
+                                                    "name": "SC.GMP.BM",
+                                                    "children": [
+                                                        {
+                                                            "id":10 ,
+                                                            "size":1,
+                                                            "visualize":1,
+                                                            "draw_parent_line":1,
+                                                            "name": "SC.MDP.BM",
+                                                            "children": [
+                                                                {
+                                                                    "id":11 ,
+                                                                    "size":1,
+                                                                    "visualize":1,
+                                                                    "draw_parent_line":1,
+                                                                    "name": "SC.CDP.BM"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 12,
+                                                    "size":1,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1,
+                                                    "name": "SC.MEP.BM"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 13,
+                                            "size":1,
+                                            "visualize":1,
+                                            "draw_parent_line":1,
+                                            "name": "proB.CLP.BM",
+                                            "children": [
+                                                {
+                                                    "id": 14,
+                                                    "size":1,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1,
+                                                    "name": "proB.FrA.BM"
+                                                },
+                                                {
+                                                    "id": 15,
+                                                    "size":1,
+                                                    "visualize":1,
+                                                    "draw_parent_line":1,
+                                                    "name": "preT.ETP.Th"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "size":1,
+            "visualize":1,
+            "draw_parent_line":0,
+            "name": "SC.LTSL.FL",
+            "children": [
+                {
+                    "id": 17,
+                    "size":1,
+                    "visualize":1,
+                    "draw_parent_line":1,
+                    "name": "SC.STSL.FL",
+                    "children": [
+                        {
+                            "id": 18,
+                            "size":1,
+                            "visualize":1,
+                            "draw_parent_line":1,
+                            "name": "MLP.FL",
+                            "children": [
+                                {
+                                    "id": 19,
+                                    "size":1,
+                                    "visualize":1,
+                                    "draw_parent_line":1,
+                                    "name": "proB.CLP.FL",
+                                    "children": [
+                                        {
+                                            "id": 20,
+                                            "size":1,
+                                            "visualize":1,
+                                            "draw_parent_line":1,
+                                            "name": "proB.FrA.FL"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

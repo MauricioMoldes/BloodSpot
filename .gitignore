@@ -1,0 +1,11 @@
+httpd-private/db-init/dump_split/
+httpd-private/db-init/archive_split/
+de_sql_data/*.tsv
+*.sql
+*.sql.gz
+*.tar
+*.tar.gz
+tmp/
+www/surv/*.zip
+www/surv/survplots/
+www/surv/survplotsPNG/

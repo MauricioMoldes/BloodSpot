@@ -1,0 +1,55 @@
+ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"Normal","size":10}
+          ,{"name":"Other","size":10}
+          ,{"name":"t(11q23)/MLL","size":10}
+          ,{"name":"nan","size":10}
+          ]
+ }         , { "name":" " , "size":2 , "children":[{"name":"Complex","size":10}
+          ,{"name":"Complex, del(5q)","size":10}
+          , { "name":" " , "size":2 , "children":[{"name":"Trisomy 8","size":10}
+           ,{"name":"del(7q)/7q-","size":10}
+           ]
+ }          ]
+ }         ]
+ }        , { "name":" " , "size":2 , "children":[{"name":"del(5q)","size":10}
+         ,{"name":"trisomy 13","size":10}
+         ]
+ }        ]
+ }       , { "name":" " , "size":2 , "children":[{"name":"MDS","size":10}
+        ,{"name":"8","size":10}
+        ]
+ }       ]
+ }      , { "name":" " , "size":2 , "children":[{"name":"t(6;9)","size":10}
+       ,{"name":"-9q","size":10}
+       ]
+ }      ]
+ }     , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"inv(16)","size":10}
+       ,{"name":"t(8;21)","size":10}
+       ]
+ }      , { "name":" " , "size":2 , "children":[{"name":"t(9;11)","size":10}
+       , { "name":" " , "size":2 , "children":[{"name":"Complex, untypical","size":10}
+        , { "name":" " , "size":2 , "children":[{"name":"ALL","size":10}
+         ,{"name":"-5/7(q)","size":10}
+         ]
+ }        ]
+ }       ]
+ }      ]
+ }     ]
+ }    ,{"name":"trisomy 11","size":10}
+    ]
+ }   , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"t(15;17)","size":10}
+     ,{"name":"t(8;16)","size":10}
+     ]
+ }    ,{"name":"del(9q)","size":10}
+    ]
+ }   ]
+ }  , { "name":" " , "size":2 , "children":[{"name":"inv(3)","size":10}
+   ,{"name":"t(9;22)","size":10}
+   ]
+ }  ]
+ } , { "name":" " , "size":2 , "children":[ { "name":" " , "size":2 , "children":[{"name":"7","size":10}
+   ,{"name":"t(1;3)","size":10}
+   ]
+ }  ,{"name":"abn(3q)","size":10}
+  ]
+ } ]
+ }

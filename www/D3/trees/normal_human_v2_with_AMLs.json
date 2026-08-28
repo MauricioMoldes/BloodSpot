@@ -1,0 +1,165 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "children": [
+                                                                {
+                                                                    "children": [
+                                                                        {
+                                                                            "children": [
+                                                                                {
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "draw_parent_line": 1,
+                                                                                            "id": 16,
+                                                                                            "name": "PMN",
+                                                                                            "size": 2,
+                                                                                            "visualize": 1
+                                                                                        }
+                                                                                    ],
+                                                                                    "draw_parent_line": 1,
+                                                                                    "id": 4,
+                                                                                    "name": "BC",
+                                                                                    "size": 2,
+                                                                                    "visualize": 1
+                                                                                }
+                                                                            ],
+                                                                            "draw_parent_line": 1,
+                                                                            "id": 5,
+                                                                            "name": "MM",
+                                                                            "size": 2,
+                                                                            "visualize": 1
+                                                                        }
+                                                                    ],
+                                                                    "draw_parent_line": 1,
+                                                                    "id": 8,
+                                                                    "name": "MY",
+                                                                    "size": 2,
+                                                                    "visualize": 1
+                                                                }
+                                                            ],
+                                                            "draw_parent_line": 1,
+                                                            "id": 18,
+                                                            "name": "late_PM",
+                                                            "size": 2,
+                                                            "visualize": 1
+                                                        }
+                                                    ],
+                                                    "draw_parent_line": 1,
+                                                    "id": 12,
+                                                    "name": "early_PM",
+                                                    "size": 2,
+                                                    "visualize": 1
+                                                },
+                                                {
+                                                    "draw_parent_line": 1,
+                                                    "id": 6,
+                                                    "name": "Mono",
+                                                    "size": 2,
+                                                    "visualize": 1
+                                                }
+                                            ],
+                                            "draw_parent_line": 1,
+                                            "id": 17,
+                                            "name": "GMP",
+                                            "size": 2,
+                                            "visualize": 1
+                                        },
+                                        {
+                                            "draw_parent_line": 1,
+                                            "id": 14,
+                                            "name": "MEP",
+                                            "size": 2,
+                                            "visualize": 1
+                                        }
+                                    ],
+                                    "draw_parent_line": 1,
+                                    "id": 19,
+                                    "name": "CMP",
+                                    "size": 2,
+                                    "visualize": 1
+                                }
+                            ],
+                            "draw_parent_line": 1,
+                            "id": 13,
+                            "name": "MPP",
+                            "size": 2,
+                            "visualize": 1
+                        }
+                    ],
+                    "draw_parent_line": 0,
+                    "id": 42,
+                    "name": "HSC",
+                    "size": 2,
+                    "visualize": 1
+                }
+            ],
+            "draw_parent_line": 0,
+            "id": 7,
+            "name": " ",
+            "size": 2,
+            "visualize": 0
+        },
+        {
+            "children": [
+                {
+                    "draw_parent_line": 0,
+                    "id": 15,
+                    "name": "AML complex",
+                    "size": 2,
+                    "visualize": 1
+                },
+                {
+                    "draw_parent_line": 0,
+                    "id": 9,
+                    "name": "AML t(11q23)/MLL",
+                    "size": 2,
+                    "visualize": 1
+                },
+                {
+                    "draw_parent_line": 0,
+                    "id": 10,
+                    "name": "AML inv(16)/t(16;16)",
+                    "size": 2,
+                    "visualize": 1
+                },
+                {
+                    "draw_parent_line": 0,
+                    "id": 11,
+                    "name": "AML t(8;21)",
+                    "size": 2,
+                    "visualize": 1
+                },
+                {
+                    "draw_parent_line": 0,
+                    "id": 1,
+                    "name": "AML t(15;17)",
+                    "size": 2,
+                    "visualize": 1
+                }
+            ],
+            "draw_parent_line": 0,
+            "id": 2,
+            "name": " ",
+            "size": 2,
+            "visualize": 0
+        }
+    ],
+    "draw_parent_line": 0,
+    "id": 3,
+    "name": " ",
+    "size": 2,
+    "visualize": 0
+}
+

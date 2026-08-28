@@ -1,0 +1,31 @@
+ {"id":364205, "name":" " , "size":2 , "children":[ {"id":5004563, "name":" " , "size":2 , "children":[ {"id":8215820, "name":" " , "size":2 , "children":[{"id":394283, "name":"T.8Nve.Sp.OT1","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   , {"id":8503717, "name":" " , "size":2 , "children":[ {"id":4110896, "name":" " , "size":2 , "children":[ {"id":5508133, "name":" " , "size":2 , "children":[ {"id":9578627, "name":" " , "size":2 , "children":[ {"id":4349949, "name":" " , "size":2 , "children":[{"id":8575983, "name":"T.8Eff.Sp.OT1.d8.VSVOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+        ,{"id":7206177, "name":"T.8Eff.Sp.OT1.d15.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+        ]
+ }       ,{"id":7819667, "name":"T.8Eff.Sp.OT1.d15.VSVOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ]
+ }      , {"id":1797942, "name":" " , "size":2 , "children":[{"id":9242453, "name":"T.8Mem.Sp.OT1.d45.VSVOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ,{"id":8770959, "name":"T.8Mem.Sp.OT1.d106.VSVOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+       ]
+ }      ]
+ }     ,{"id":621021, "name":"T.8Eff.Sp.OT1.d8.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":5450078, "name":"T.8Eff.Sp.OT1.d10.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    , {"id":7634906, "name":" " , "size":2 , "children":[{"id":6159885, "name":"T.8Mem.Sp.OT1.d45.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":7622747, "name":"T.8Mem.Sp.OT1.d100.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    ]
+ }   ]
+ }  , {"id":6442038, "name":" " , "size":2 , "children":[ {"id":9038925, "name":" " , "size":2 , "children":[{"id":308498, "name":"T.8Eff.Sp.OT1.d5.VSVOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":7031645, "name":"T.8Eff.Sp.OT1.d6.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ,{"id":4515554, "name":"T.8Eff.Sp.OT1.d6.VSVOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ]
+ } , {"id":3267429, "name":" " , "size":2 , "children":[ {"id":9380986, "name":" " , "size":2 , "children":[{"id":9170095, "name":"T.8Eff.Sp.OT1.12hr.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":9630018, "name":"T.8Eff.Sp.OT1.24hr.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ,{"id":5683110, "name":"T.8Eff.Sp.OT1.48hr.LisOva","size":10 ,"draw_parent_line": 1, "visualize": 1}
+  ]
+ } ]
+ }

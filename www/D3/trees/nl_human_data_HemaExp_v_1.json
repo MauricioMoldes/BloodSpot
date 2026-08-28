@@ -1,0 +1,137 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "id": 10,
+                            "name": "MEP",
+                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "id": 14,
+                                            "name": "pDC",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        }
+                                    ],
+                                    "id": 4,
+                                    "name": "mDC",
+                                    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "id": 424242,
+                                                            "name": "PMN_PB",
+                                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                                        }
+                                                    ],
+                                                    "id": 9,
+                                                    "name": "PMN_BM",
+                                                    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                                }
+                                            ],
+                                            "id": 7,
+                                            "name": "MY_BM",
+                                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                        }
+                                    ],
+                                    "id": 2,
+                                    "name": "PM_BM",
+                                    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "CD14+ monocytes",
+                                    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                                }
+                            ],
+                            "id": 13,
+                            "name": "GMP",
+                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                        }
+                    ],
+                    "id": 16,
+                    "name": "CMP",
+                    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                },
+                {
+                    "id": 1,
+                    "name": "B cells",
+                    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                },
+                {
+                    "children": [
+                        {
+                            "id": 3,
+                            "name": "CD4+ T cells",
+                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                        },
+                        {
+                            "id": 5,
+                            "name": "NK cells",
+                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                        },
+                        {
+                            "id": 15,
+                            "name": "CD8+ T cells",
+                            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                        }
+                    ],
+                    "id": 6,
+                    "name": "T cells",
+                    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+                }
+            ],
+            "id": 11,
+            "name": "early HPC_BM",
+            "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+        }
+    ],
+    "id": 8,
+    "name": "HSC_BM",
+    "size": 10,
+                                            "visualize":1,
+                                            "draw_parent_line":1
+}

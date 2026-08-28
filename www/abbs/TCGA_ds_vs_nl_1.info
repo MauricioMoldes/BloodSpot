@@ -1,0 +1,23 @@
+Human AML	 	Various genetic aberrations, including t(8;21), inv(16), t(15;17), t(11q23), complex karyotype, whole bone marrow cells are from <a href="https://tcga-data.nci.nih.gov/tcga/tcgaHome2.jsp" target="_blank">The Cancer Genome Atlas (TCGA)</a><br>
+AML cells are compared to their nearest normal counterpart, as described in <a href="http://www.bloodjournal.org/content/123/6/894.short?sso-checked=true" target="_blank">Rapin et al. <i>Blood</i>, 2014</a><br><br>
+<table>
+<tr><td><b>Short</b></td><td><b>Abbreviation</b></td></tr>
+<tr><td>Complex</td><td>AML with Complex</td></tr>
+<tr><td>Complex+other</td><td>AML with Complex+other</td></tr>
+<tr><td>None</td><td>AML with None</td></tr>
+<tr><td>Normal</td><td>AML with Normal</td></tr>
+<tr><td>Normal+other</td><td>AML with Normal+other</td></tr>
+<tr><td>Trisomy 8</td><td>AML with Trisomy 8</td></tr>
+<tr><td>Trisomy 8+other</td><td>AML with Trisomy 8+other</td></tr>
+<tr><td>del(5q)/5q-</td><td>AML with del(5q)/5q-</td></tr>
+<tr><td>del(5q)/5q-+other</td><td>AML with del(5q)/5q-+other</td></tr>
+<tr><td>del(7q)/7q-</td><td>AML with del(7q)/7q-</td></tr>
+<tr><td>del(7q)/7q-+other</td><td>AML with del(7q)/7q-+other</td></tr>
+<tr><td>inv(16)</td><td>AML with inv(16)</td></tr>
+<tr><td>inv(16)+other</td><td>AML with inv(16)+other</td></tr>
+<tr><td>t(15;17)</td><td>AML with t(15;17)</td></tr>
+<tr><td>t(15;17)+other</td><td>AML with t(15;17)+other</td></tr>
+<tr><td>t(8;21)</td><td>AML with t(8;21)</td></tr>
+<tr><td>t(8;21)+other</td><td>AML with t(8;21)+other</td></tr>
+<tr><td>t(9;11)+other</td><td>AML with t(9;11)+other</td></tr>
+</table>

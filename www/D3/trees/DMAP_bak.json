@@ -1,0 +1,6 @@
+{  "name": "Hematopoietic stem cell_CD133+ CD34dim",
+   "size": 2,
+   "children": [
+    {"name":"Hematopoietic stem cell_CD38- CD34+","size":10}
+    ]
+}

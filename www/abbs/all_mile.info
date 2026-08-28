@@ -1,0 +1,23 @@
+Human AML, ALL and preleukemic stages cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13159" target="_blank">GSE13159</a>
+<br><br>
+<table>
+<tr><td><b>Short</b></td><td><b>Abbreviation</b></td></tr>
+<tr><td>ALL hyperdiploid</td><td>ALL with hyperdiploid karyotype</td></tr>
+<tr><td>ALL t(12;21)</td><td>ALL with t(12;21)</td></tr>
+<tr><td>ALL t(1;19)</td><td>ALL with t(1;19)</td></tr>
+<tr><td>AML complex.</td><td>AML complex aberrant karyotype</td></tr>
+<tr><td>AML inv(16)</td><td>AML with inv(16)/t(16;16)</td></tr>
+<tr><td>AML normal karyotype</td><td>AML with normal karyotype + other abnormalities</td></tr>
+<tr><td>AML MLL</td><td>AML with t(11q23)/MLL</td></tr>
+<tr><td>AML t(15;17)</td><td>AML with t(15;17)</td></tr>
+<tr><td>AML t(8;21)</td><td>AML with t(8;21)</td></tr>
+<tr><td>CLL</td><td>CLL</td></tr>
+<tr><td>CML</td><td>CML</td></tr>
+<tr><td>MDS</td><td>MDS</td></tr>
+<tr><td>Healthy bone marrow</td><td>Non-leukemia and healthy bone marrow</td></tr>
+<tr><td>Pro-B-ALL t(11q23)/MLL</td><td>Pro-B-ALL with t(11q23)/MLL</td></tr>
+<tr><td>T-ALL</td><td>T-ALL</td></tr>
+<tr><td>c-/Pre-B-ALL t(9;22)</td><td>c-ALL/Pre-B-ALL with t(9;22)</td></tr>
+<tr><td>c-/Pre-B-ALL no t(9;22)</td><td>c-ALL/Pre-B-ALL without t(9;22)</td></tr>
+<tr><td>B-ALL with t(8;14)</td><td>mature B-ALL with t(8;14)</td></tr>
+</table>

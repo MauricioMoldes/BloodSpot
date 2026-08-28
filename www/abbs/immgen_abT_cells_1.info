@@ -1,0 +1,55 @@
+﻿Mouse Normal Hematopoietic cells are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15907" target="_blank">GSE15907</a><br><br>
+<table>
+<tr><td><b>Short</b></td> <td><b>Full name</b></td> <td><b>Phenotype</b></td> <td><b>Origin</b></td> <td><b>Location</b></td> </tr>
+<tr bgcolor= "#CDE6FF"><td>preT.ETP.Th</td><td>Early T lineage Precursor</td><td>4- 8- 11 b- 11c- 19- NK1.1-TCR- 44hi 117hi 25-</td><td>B6</td><td>Thymus </td></tr>
+<tr><td>preT.ETP-2A.Th</td><td>ETF' to DN2a Transitional</td><td>4- 8- 11b- 11c- 19- NK1.1- TCR- 44hi 117hi 25int </td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>preT.DN2.Th</td><td>Double-Negative 2 </td><td>4- 8- 11 b- 11c- 19- NK1.1- TCR- 44hi 25hi</td><td>B6</td><td>Thymus </td></tr>
+<tr><td>preT.DN2A.Th</td><td>Double-Negative 2a </td><td>4- 8- 11b- 11c- 19- NK1.1- TCR- 44hi 117hi 25hi </td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>preT.DN2B.Th</td><td>Double-Negative 2b</td><td>4- 8- 11b- 11c- 19- NK1.1- TCR- 44hi 117int 25hi </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>preT.DN2-3.Th</td><td>DN2 to DN3 Transitional </td><td>4- 8- 11b- 11c- 19- NK1.1- TCR- 44int 25hi</td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>preT.DN3A.Th</td><td>Double-Negative 3a </td><td>4- 8- 11 b- 11c- 19- NK1.1- TCR- 44- 25hi 28-</td><td>B6</td><td>Thymus </td></tr>
+<tr><td>preT.DN3B.Th</td><td>Double-Negative 3b</td><td>4- 8- 11 b- 11c- 19- NK1.1- TCR- 44- 25hi 28+</td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>preT.DN3-4.Th</td><td>DN3 to DN4 Transitional </td><td>4- 8- 11b- 11c- 19- NK1.1- TCR- 44- 25int 28+ </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.DN4.Th</td><td>Double-Negative 4 </td><td>4- 8- 11 b- 11c- 19- NK1.1- TCR- 44- 25- 28+</td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.ISP.Th</td><td>Immature Single-Positive</td><td>4- 8+ TCR-/lo 24hi </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.DP.Th</td><td>Double-Positive, all </td><td>4+ 8+ TCR-/lo 69-</td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.DPbl.Th</td><td>Double-Positive blasts </td><td>4+ 8+ TCR-/lo FSChi </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.DPsm.Th</td><td>Double-Positive, small resting </td><td>4+ 8+ TCR-/lo FSCIo </td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.DP69+.Th</td><td>Double-Positive, Early Positive Selection </td><td>4+ 8+ TCRIo/int 69+ </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.4+8int.Th</td><td>Positive Selection, Intermediate</td><td>4+ 8int TCRhi 69+ </td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4SP69+.Th</td><td>CD4 Single-Positive, Intermediate</td><td>4+ 8- TCRhi 69+ </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.4SP24int.Th</td><td>CD4 Single-Positive, Semimature </td><td>4+ 8- TCRhi 24int </td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4SP24-.Th</td><td>CD4 Single-Positive, Mature</td><td>4+ 8- TCRhi 24-/lo</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>T.4int8+.Th</td><td>Positive Selection, Intermediate</td><td>4int 8+ TCRhi 69+ </td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8SP69+.Th</td><td>CD8 Single-Positive, Intermediate </td><td>4- 8+ TCRhi 69+ </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.8SP24int.Th</td><td>CD8 Single-Positive, Semimature </td><td>4- 8+ TCRhi 24int </td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8SP24-.Th</td><td>CD8 Single-Positive, Mature</td><td>4- 8+ TCRhi 24-/lo </td><td>B6</td><td>Thymus </td></tr>
+<tr><td>T.4Nve.Sp</td><td>Spleen Naïve CD4</td><td>4+ 8- TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4Mem.Sp</td><td>Spleen Memory-Phenotype CD4 </td><td>4+ 8- TCR+ 25- 44hi 122Io </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>T.4Mem44h62l.Sp</td><td>Spleen Memory-Phenotype CD4</td><td>4+ 8- TCR+ 44hi 62Lo</td><td>GFP-Foxp3-CD45.1-B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4Mem.LN</td><td>Subcutaneous LN Memory-Phenotype CD4 </td><td>4+ 8- TCR+ 25- 44hi 122Io </td><td>B6</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr><td>T.4Nve.LN</td><td>Subcutaneous LN Naïve CD4</td><td>4+ 8- TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4Mem44h62l.LN</td><td>Subcutaneous LN Memory-Phenotype CD4 </td><td>4+ 8- TCR+ 44hi 62Lo </td><td>GFP-Foxp3-CD45.1-B6</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr><td>T.4Nve.PP</td><td>Peyers Patches Naïve CD4</td><td>4+ 8- TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Peyers Patches </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4Nve.MLN</td><td>Mesenteric LN Naïve CD4</td><td>4+ 8- TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Mesenchymal Lymph Nodes </td></tr>
+<tr><td>T.4.LN.BDC</td><td>Subcutaneous LN CD4, BDC islet-reactive TCR Tg</td><td>4+ 8- BDC+</td><td>BDC.B6g7g7</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4.PLN.BDC</td><td>Pancreatic LN CD4, BDC islet-reactive TCR Tg</td><td>4+ 8- BDC+</td><td>BDC.B6g7g7</td><td>Pancreatic Lymph Nodes</td></tr>
+<tr><td>T.4.Pa.BDC</td><td>Pancreas-Infiltrating CD4, BDC islet-reactive TCR Tg </td><td>4+ 8- BDC+</td><td>BDC.B6g7g7</td><td>Pancreas</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4FP3-.Sp</td><td>Spleen Naïve CD4 FoxP3- 25-</td><td>4+ 8- TCR+ GFP- 25- 4410 </td><td>GFP-FoxP3 Knockin </td><td>Spleen</td></tr>
+<tr><td>T.4FP3+25+.Sp</td><td>Spleen CD25+ Foxp3+ Tregs </td><td>4+ 8- TCR+ GFP+ 25+</td><td>GFP-FoxP3 Knockin</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Nve.Sp</td><td>Spleen Naïve CD8</td><td>4- 8+ TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Spleen</td></tr>
+<tr><td>T.8Mem.Sp</td><td>Spleen Memory-Phenotype CD8 </td><td>4- 8+ TCR+ 25- 44hi 122hi </td><td>B6</td><td>Spleen</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Nve.LN</td><td>Subcutaneous LN Naïve CD8</td><td>4- 8+ TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr><td>T.8Mem.LN</td><td>Subcutaneous LN Memory-Phenotype CD8</td><td>4- 8+ TCR+ 25- 44hi 122hi</td><td>B6</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.8Nve.PP</td><td>Peyers Patches Naïve CD8</td><td>4- 8+ TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Peyers Patches </td></tr>
+<tr><td>T.8Nve.MLN</td><td>Mesenteric LN Naïve CD8</td><td>4- 8+ TCR+ 25- 62Lhi 4410 </td><td>B6</td><td>Subcutaneous Lymph Nodes </td></tr>
+<tr bgcolor= "#CDE6FF"><td>NKT.44-NK1.1-.Th</td><td>Thymus Invariant iNKT precursor CD44- NK1.1-</td><td>TCRbeta+ aGalCer tet+ CD44-NK1.1-</td><td>B6</td><td>Thymus </td></tr>
+<tr><td>NKT.44+NK1.1-.Th</td><td>Thymus Invariant iNKT precursor CD44+ NK1.1-</td><td>TCRbeta+ aGalCer tet+ CD44+NK1.1-</td><td>B6</td><td>Thymus </td></tr>
+<tr bgcolor= "#CDE6FF"><td>NKT.44+NK1.1+.Th</td><td>Thymus Invariant iNKT precursor CD44+ NK1.1+</td><td>TCRbeta+ aGalCer tet+ CD44+NK1.1+</td><td>B6</td><td>Thymus</td></tr>
+<tr><td>NKT.4+.Sp</td><td>Spleen Invariant iNKT CD4+ </td><td>TCRbeta+ aGalCer tet+ CD4+</td><td>B6</td><td>Spleen </td></tr>
+<tr bgcolor= "#CDE6FF"><td>NKT.4-.Sp</td><td>Spleen Invariant iNKT CD4-</td><td>TCRbeta+ aGalCer tet+ CD4-</td><td>B6</td><td>Spleen </td></tr>
+<tr><td>NKT.4+.Lv</td><td>Liver Invariant iNKT CD4+ </td><td>TCRbeta+ aGalCer tet+ CD4+</td><td>B6</td><td>Liver </td></tr>
+<tr bgcolor= "#CDE6FF"><td>NKT.4-.Lv</td><td>Liver Invariant iNKT CD4+ </td><td>TCRbeta+ aGalCer tet+ CD4-</td><td>B6</td><td>Liver </td></tr>
+<tr><td>T.4FP3+25+.AA</td><td>FoxP3+ CD4+, Abdominal Fat </td><td>4+ 8- TCR+ 25+ GFP+ </td><td>GFP-FoxP3 Knockin</td><td>Abdominal Adipose</td></tr>
+<tr bgcolor= "#CDE6FF"><td>T.4FP3+25+.LN</td><td>Lymph Node CD25+ Foxp3+ Tregs</td><td>4+ 8- TCR+ GFP+ 25+</td><td>GFP-FoxP3 Knockin</td><td>Spleen</td></tr>
+</table>

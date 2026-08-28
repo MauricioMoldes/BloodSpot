@@ -1,0 +1,22 @@
+Human Normal Hematopoiesis are cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42519" target="_blank">GSE42519</a><br>
+Human AML cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13159" target="_blank">GSE13159</a><br><br>
+<table>
+<tr><td><b>Abbreviation</b></td><td><b>Name</b></td><td><b>Immunophenotype</b></td></tr>
+<tr bgcolor= "#CDE6FF"><td>AML t(15;17)</td><td>AML with t(15;17)</td><td>Whole BM unsorted</td></tr>
+<tr><td>AML inv(16)/t(16;16)</td><td>AML with inv(16)/t(16;16)</td><td>Whole BM unsorted</td></tr>
+<tr bgcolor= "#CDE6FF"><td>AML t(8;21)</td><td>AML with t(8;21)</td><td>Whole BM unsorted</td></tr>
+<tr><td>AML t(11q23)/MLL</td><td>AML with t(11q23)/MLL</td><td>Whole BM unsorted</td></tr>
+<tr bgcolor= "#CDE6FF"><td>AML complex</td><td>AML with complex aberrant karyotype</td><td>Whole BM unsorted</td></tr>
+<tr><td>HSC</td><td>Hematopoietic stem cell</td><td>Lin- CD34+ CD38- CD90+ CD45RA-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MPP</td><td>Multipotential progenitors</td><td>Lin- CD34+ CD38- CD90- 45RA-</td></tr>
+<tr><td>CMP</td><td>Common myeloid progenitor cell</td><td>Lin- CD34+ CD38+ CD45RA- CD123+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>GMP</td><td>Granulocyte monocyte progenitors</td><td>Lin- CD34+ CD38+ CD45RA+ CD123+</td></tr>
+<tr><td>MEP</td><td>Megakaryocyte-erythroid progenitor cell</td><td>Lin- CD34+ CD38+ CD45RA- CD123-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>early_PM</td><td>Early Promyelocyte</td><td>Lin- FSChi SSCint CD34- CD15int CD49dhi CD33hi CD11b- CD16-</td></tr>
+<tr><td>late_PM</td><td>Late Promyelocyte</td><td>Lin- FSChi SSChi CD34- CD15hi CD49dhi CD33hi CD11b- CD16-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>MY</td><td>Myelocyte</td><td>Lin- FSChi SSChi CD34- CD15hi CD49dhi CD33hi CD11bhi CD16-</td></tr>
+<tr><td>MM</td><td>Metamyelocytes</td><td>Lin- FSChi SSChi CD34- CD15hi CD49d- CD33- CD11bhi CD16-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>BC</td><td>Band cell</td><td>Lin- FSChi SSChi CD34- CD15hi CD49d- CD33- CD11bhi CD16int</td></tr>
+<tr><td>PMN</td><td>Polymorphonuclear cells</td><td>Lin- FSChi SSChi CD34- CD15hi CD49d- CD33- CD11bhi CD16hi</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Mono</td><td>Monocytes</td><td>CD14+ CD16-</td></tr>
+</table>

@@ -1,0 +1,41 @@
+Human Normal Hematopoietic cells are from <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24759" target="_blank">GSE24759</a><br><br>
+<table>
+<tr><td><b>Abbreviation</b></td><td><b>Name</b></td><td><b>Immunophenotype</b></td></tr>
+<tr bgcolor= "#CDE6FF"><td>Basophils</td><td>Basophils</td><td>FSChi SSClo CD22+ CD123+ CD33+/- CD45dim </td></tr>
+<tr><td>Naive B-cells</td><td>Naive B-cells</td><td>CD19+ IgD+ CD27- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>B-cell class can switch</td><td>Mature B-cell class able to switch</td><td>CD19+ IgD+ CD27+ </td></tr>
+<tr><td>B-cells</td><td>Mature B-cells</td><td>CD19+ IgD- CD27-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>B-cell class switched</td><td>Mature B-cell class switched</td><td>CD19+ IgD- CD27+ </td></tr>
+<tr><td>CMP</td><td>Common myeloid progenitor</td><td>CD34+ CD38+ IL-3R lo CD45RA- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>Plasmacytoid DC</td><td>Plasmacytoid Dendritic Cell</td><td>HLA-DR+ CD3- CD14- CD16- CD19- CD56- CD123+ CD11c- </td></tr>
+<tr><td>Myeloid DC</td><td>Myeloid Dendritic Cell</td><td>HLA-DR+ CD3- CD14- CD16- CD19- CD56- CD123- CD11c+ </td></tr>
+<tr bgcolor= "#CDE6FF"><td>Eosinophill</td><td>Eosinophill</td><td>FSChi SSClo IL3-R + CD33dim+ </td></tr>
+<tr><td>Eryth.CD34+CD71+GlyA-</td><td>Erythroid_CD34+ CD71+ GlyA-</td><td>CD34+ CD71+ GlyA- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>Eryth.CD34-CD71+GlyA-</td><td>Erythroid_CD34- CD71+ GlyA-</td><td>CD34- CD71+ GlyA- </td></tr>
+<tr><td>Eryth.CD34-CD71+GlyA+</td><td>Erythroid_CD34- CD71+ GlyA+</td><td>CD34- CD71+ GlyA+ </td></tr>
+<tr bgcolor= "#CDE6FF"><td>Eryth.CD34-CD71loGlyA+</td><td>Erythroid_CD34- CD71lo GlyA+</td><td>CD34- CD71lo GlyA+ </td></tr>
+<tr><td>Eryth.CD34-CD71-GlyA+</td><td>Erythroid_CD34- CD71- GlyA+</td><td>CD34- CD71- GlyA+ </td></tr>
+<tr bgcolor= "#CDE6FF"><td>GMP</td><td>Granulocyte/monocyte progenitor</td><td>CD34+ CD38+ IL-3R lo CD45RA+ </td></tr>
+<tr><td>CFU-Granulo</td><td>Colony Forming Unit-Granulocyte</td><td>CD34- SSChi CD45+ CD11b- CD16- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>Gran.(Neutro Metamyelo)</td><td>Granulocyte (Neutrophilic Metamyelocyte)</td><td>CD34- SSChi CD45+ CD11b+ CD16- </td></tr>
+<tr><td>Granulo (Neutro)</td><td>Granulocyte (Neutrophil)</td><td>FSChi SSChi CD16+ CD11b+ </td></tr>
+<tr bgcolor= "#CDE6FF"><td>HSC CD133+ CD34dim</td><td>Hematopoietic stem cell_CD133+ CD34dim</td><td>CD133+ CD34dim </td></tr>
+<tr><td>CFU-Megakaryo</td><td>Colony Forming Unit-Megakaryocytic</td><td>CD34+ CD41+ CD61+ CD45- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>Megakaryocyte</td><td>Megakaryocyte</td><td>CD34- CD41+ CD61+ CD45- </td></tr>
+<tr><td>MEP</td><td>Megakaryocyte/ erythroid progenitor</td><td>CD34+ CD38+ IL-3R - CD45RA- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>CFU-Mono</td><td>Colony Forming Unit-Monocyte</td><td>CD34- CD33+ CD13+</td></tr>
+<tr><td>Monocyte</td><td>Monocyte</td><td>FSChi SSClo CD14+ CD45dim</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK CD56-CD16+</td><td>Mature NK cell_CD56- CD16+ CD3-</td><td>CD56- CD16+ CD3- </td></tr>
+<tr><td>NK CD56+CD16+</td><td>Mature NK cell_CD56+ CD16+ CD3-</td><td>CD56+ CD16+ CD3-</td></tr>
+<tr bgcolor= "#CDE6FF"><td>NK CD56-CD16-</td><td>Mature NK cell_CD56- CD16- CD3-</td><td>CD56- CD16- CD3- </td></tr>
+<tr><td>NKT</td><td>Natural Killer T-cell</td><td>CD14- CD19- CD3+ CD1d+</td></tr>
+<tr bgcolor= "#CDE6FF"><td>Early B-cell</td><td>Early B-cell</td><td>CD34+ CD10+ CD19+ </td></tr>
+<tr><td>Pro B-cell</td><td>Pro B-cell</td><td>CD34- CD10+ CD19+ </td></tr>
+<tr bgcolor= "#CDE6FF"><td>CD8+Effec.Mem.RA</td><td>CD8+ Effector Memory RA</td><td>CD8+ CD62L- CD45RA+ </td></tr>
+<tr><td>Naive CD8+ T-cell</td><td>Naive CD8+ T-cell</td><td>CD8+ CD62L+ CD45RA+ </td></tr>
+<tr bgcolor= "#CDE6FF"><td>CD8+Effec.Mem.</td><td>CD8+ Effector Memory</td><td>CD8+ CD62L- CD45RA- </td></tr>
+<tr><td>CD8+Centr.Mem.</td><td>CD8+ Central Memory</td><td>CD8+ CD62L+ CD45RA- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>Naive CD4+ T-cell</td><td>Naive CD4+ T-cell</td><td>CD4+ CD62L+ CD45RA+ </td></tr>
+<tr><td>CD4+Effec.Mem.</td><td>CD4+ Effector Memory</td><td>CD4+ CD62L- CD45RA- </td></tr>
+<tr bgcolor= "#CDE6FF"><td>CD4+Centr.Mem.</td><td>CD4+ Central Memory</td><td>CD4+ CD62L+ CD45RA- </td></tr>
+</table>

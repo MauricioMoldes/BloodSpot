@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /bloodspot/D3/trees</title>
+ </head>
+ <body>
+<h1>Index of /bloodspot/D3/trees</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/bloodspot/D3/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="AML_MILE_VERHAAK_vs_nl.json">AML_MILE_VERHAAK_vs_nl.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">685 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="BLUEPRINT_Normals.json">BLUEPRINT_Normals.json</a></td><td align="right">2018-07-02 14:49  </td><td align="right">2.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="BLUEPRINT_all.json">BLUEPRINT_all.json</a></td><td align="right">2018-07-02 14:49  </td><td align="right">7.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DMAP.json">DMAP.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DMAP_bak.json">DMAP_bak.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">152 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DMAP_corr.json">DMAP_corr.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Kohlmann_NK_AML_mut.json">Kohlmann_NK_AML_mut.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Kohlmann_NK_AML_mut_vs_nl.json">Kohlmann_NK_AML_mut_vs_nl.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="MERGED_AML.json">MERGED_AML.json</a></td><td align="right">2015-06-25 17:46  </td><td align="right">1.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="MERGED_AML_vs_nl.json">MERGED_AML_vs_nl.json</a></td><td align="right">2015-06-25 09:43  </td><td align="right">2.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Patientdata.json">Patientdata.json</a></td><td align="right">2015-01-22 18:06  </td><td align="right">7.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="TCGA_ds.json">TCGA_ds.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">2.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="TCGA_ds_vs_nl.json">TCGA_ds_vs_nl.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">2.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="all_mile.json">all_mile.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">2.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="aml_mile_verhaak_vs_nl.json">aml_mile_verhaak_vs_nl.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">415 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_Activated_T_cells.json">immgen_Activated_T_cells.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">2.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_B_cells.json">immgen_B_cells.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">2.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_Dentritic_cells.json">immgen_Dentritic_cells.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">4.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_Key_populations.json">immgen_Key_populations.json</a></td><td align="right">2014-09-10 15:45  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_MFs_Monocytes_Neutrophiles.json">immgen_MFs_Monocytes_Neutrophiles.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">3.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_NK_cells.json">immgen_NK_cells.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">1.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_Stem_and_progenitor_cells.json">immgen_Stem_and_progenitor_cells.json</a></td><td align="right">2014-09-10 16:22  </td><td align="right">7.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_Stromal_cells.json">immgen_Stromal_cells.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_abT_cells.json">immgen_abT_cells.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">5.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="immgen_gdT_cells.json">immgen_gdT_cells.json</a></td><td align="right">2014-09-09 16:41  </td><td align="right">3.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="lauridsen_sc.json">lauridsen_sc.json</a></td><td align="right">2018-07-02 14:49  </td><td align="right">613 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="mouse_nl_rna_seq.json">mouse_nl_rna_seq.json</a></td><td align="right">2015-06-04 14:55  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="nl_human_data_HemaExp_v_1.0.json">nl_human_data_HemaExp_v_1.0.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">844 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="nl_human_data_HemaExp_v_1.json">nl_human_data_HemaExp_v_1.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">6.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="nl_mouse_data.json">nl_mouse_data.json</a></td><td align="right">2015-04-28 16:14  </td><td align="right">2.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="nl_mouse_data_bak.json">nl_mouse_data_bak.json</a></td><td align="right">2014-10-02 13:20  </td><td align="right">6.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="normal_human_v2_with_AMLs.json">normal_human_v2_with_AMLs.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">7.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="normal_human_v2_with_AMLs_bak.json">normal_human_v2_with_AMLs_bak.json</a></td><td align="right">2014-08-15 17:23  </td><td align="right">4.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="paul_sc.json">paul_sc.json</a></td><td align="right">2018-07-02 14:49  </td><td align="right">622 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="setty_sc.json">setty_sc.json</a></td><td align="right">2018-09-10 00:37  </td><td align="right">461 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="velten_sc.json">velten_sc.json</a></td><td align="right">2018-09-10 00:37  </td><td align="right">311 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="zheng_sc.json">zheng_sc.json</a></td><td align="right">2018-09-10 00:37  </td><td align="right">382 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.10 (Debian) Server at servers.binf.ku.dk Port 80</address>
+</body></html>

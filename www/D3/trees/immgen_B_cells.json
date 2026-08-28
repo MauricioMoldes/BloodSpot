@@ -1,0 +1,35 @@
+ {"id":2793119, "name":" " , "size":2 , "children":[ {"id":5834366, "name":" " , "size":2 , "children":[ {"id":1349286, "name":" " , "size":2 , "children":[{"id":6736468, "name":"proB.CLP.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":1609623, "name":"proB.FrA.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":7126847, "name":"proB.CLP.FL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":6091440, "name":"proB.FrA.FL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  , {"id":8713934, "name":" " , "size":2 , "children":[ {"id":6609042, "name":" " , "size":2 , "children":[{"id":6750626, "name":"proB.FrBC.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":4804256, "name":"preB.FrD.FL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":2487037, "name":"preB.FrD.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    , {"id":5361414, "name":" " , "size":2 , "children":[{"id":7138266, "name":"preB.FrC.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ,{"id":9606187, "name":"proB.FrBC.FL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+     ]
+ }    ]
+ }   , {"id":5320960, "name":" " , "size":2 , "children":[{"id":5587790, "name":"B.FrE.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":7180719, "name":"B.FrE.FL","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ,{"id":6830535, "name":"B.GC.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+    ]
+ }   ]
+ }  ]
+ } , {"id":3060793, "name":" " , "size":2 , "children":[ {"id":4459091, "name":" " , "size":2 , "children":[{"id":5407957, "name":"B.T1.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":4602189, "name":"B.T2.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":1512370, "name":"B.T3.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":5644229, "name":"B.Fo.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":5974329, "name":"B.FrF.BM","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":8743808, "name":"B.Fo.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":6937696, "name":"B.Fo.MLN","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":3488847, "name":"B.Fo.LN","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  , {"id":9592474, "name":" " , "size":2 , "children":[{"id":5048208, "name":"B.MZ.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":6301145, "name":"B1a.Sp","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":4629670, "name":"B1b.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ,{"id":3960053, "name":"B1a.PC","size":10 ,"draw_parent_line": 1, "visualize": 1}
+   ]
+ }  ]
+ } ]
+ }
