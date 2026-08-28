@@ -10,7 +10,7 @@ BloodSpot is a database of gene expression profiles and transcriptional programs
 
 ## This repository
 
-This repo holds the consolidated **v3.1** codebase, merged from two divergent legacy source trees (`bloodspot/` and `fobinf.com/`) into a single source of truth. See `CHANGELOG.md` (or the relevant commit history) for details of the consolidation process.
+This repo holds the consolidated **v3.1** codebase, merged from two divergent legacy source trees (`bloodspot/` and `fobinf.com/`) into a single source of truth.
 
 ### Stack
 
@@ -26,10 +26,6 @@ Planned (v4): PostgreSQL + Tailwind + React + Node.
 ### Data
 
 Large dataset dumps (`.sql`, `.sql.gz`) and generated survival plot archives are **not** stored in this repository. They are hosted separately at [data.bloodspot.eu](https://data.bloodspot.eu/).
-
-### Configuration
-
-`httpd-private/libraries/db.php` contains database connection settings. **Note:** as of this commit, these are not yet externalized into a separate config file — update this before deploying to a new environment.
 
 ## Roadmap
 
