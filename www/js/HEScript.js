@@ -450,16 +450,16 @@ function randomIntFromInterval(min,max)
 
 function loadGraph(gene, dataset, probe){
   currentDataset = dataset;
-  console.log("Getting data: ", "php/getdata.php?gene=" + gene + "&data=" + dataset)
-  d3.json("php/getdata.php?gene=" + gene + "&data=" + dataset, function(error, dataLookUp) {
+  console.log("Getting data: ", "php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset))
+  d3.json("php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset), function(error, dataLookUp) {
     if(error){ return console.log(error); }
     if(typeof dataLookUp !== 'undefined' && dataLookUp.length > 0) {
       gene = dataLookUp[0].gene_name;
       processDatalol(gene, dataset, probe, dataLookUp);
       window.history.pushState("object or string", "Title", "/?gene="+ gene +"&dataset=" + dataset);
     } else{
-      console.log("Looking up Alias: ", "/php/lookUpAlias.php?alias=" + gene)
-      d3.json("/php/lookUpAlias.php?alias=" + gene, function(error, aliasLookUp) {
+      console.log("Looking up Alias: ", "/php/lookUpAlias.php?alias=" + encodeURIComponent(gene))
+      d3.json("/php/lookUpAlias.php?alias=" + encodeURIComponent(gene), function(error, aliasLookUp) {
         if(error){ return console.log(error); }
         else if (typeof aliasLookUp == 'undefined' || aliasLookUp.length < 1) {
           if(gene == ""){
@@ -471,8 +471,8 @@ function loadGraph(gene, dataset, probe){
         }
         else if(typeof aliasLookUp !== 'undefined' && aliasLookUp.length > 0) {
           gene = aliasLookUp[0].name;
-          console.log("Getting data after alias: ", "php/getdata.php?gene=" + gene + "&data=" + dataset)
-          d3.json("php/getdata.php?gene=" + gene + "&data=" + dataset, function(error, data) {
+          console.log("Getting data after alias: ", "php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset))
+          d3.json("php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset), function(error, data) {
             if(error){ return console.log(error); }
             else if (typeof data == 'undefined' || data.length < 1) {
               if(gene == ""){
@@ -1683,8 +1683,8 @@ function getBrowser() {
 }
 
 function getCorrelations(dataset, probe, gene){
-  console.log("/php/getCorrelationData.php?dataset=" + dataset + "&probe=" + probe + "&gene=" + gene);
-  d3.json("/php/getCorrelationData.php?dataset=" + dataset + "&probe=" + probe + "&gene=" + gene, function(error, data) {
+  console.log("/php/getCorrelationData.php?dataset=" + encodeURIComponent(dataset) + "&probe=" + encodeURIComponent(probe) + "&gene=" + encodeURIComponent(gene));
+  d3.json("/php/getCorrelationData.php?dataset=" + encodeURIComponent(dataset) + "&probe=" + encodeURIComponent(probe) + "&gene=" + encodeURIComponent(gene), function(error, data) {
     if(error){ return console.log(error); }
     addCorrelationLinks(data);
 
