@@ -589,12 +589,12 @@ function processDatalol(gene, dataset, probe, data){
         //Open survival plot for probe
         if(~dataset.indexOf('_sc')){
           $(".survPlot").attr("src","/surv/survplotsPNG/" + dataset + "/" + gene.trim() + ".png");
-          $(".survPlot").on("error", function () { 
+          $(".survPlot").off("error").one("error", function () { 
               $(".survPlot").attr("src","/surv/survplotsPNG/not_available_umap.png");
           });
         }else{
           $(".survPlot").attr("src","/surv/survplotsPNG/" + chosenProbe + ".png");
-          $(".survPlot").on("error", function () { 
+          $(".survPlot").off("error").one("error", function () { 
               $(".survPlot").attr("src","/surv/survplotsPNG/No_Survival_Data.png");
           });
         }
