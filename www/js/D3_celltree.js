@@ -117,6 +117,11 @@ var div2 = d3.select("body").append("div")
 
 function updateTree(filename){
   d3.json("D3/trees/" + filename +".json", function(json) {//"flare.json", function(json) {
+    if (!json) {
+      console.warn("No tree available for dataset: " + filename);
+      clearTree();
+      return;
+    }
 	var celltypesIncluded = getCellTypes();
 	var medianSizes = getMedianArray();
 	//console.log(JSON.stringify(json).split(','));
@@ -476,3 +481,10 @@ function updateLegend(){
 	 	.style("opacity", "0.8");
 }
 
+
+// Remove the tree that is currently drawn (used when a dataset has no tree JSON).
+function clearTree() {
+  vis.selectAll("g.node").remove();
+  vis.selectAll("path.link").remove();
+  vis.selectAll(".graphTitle").text("");
+}
