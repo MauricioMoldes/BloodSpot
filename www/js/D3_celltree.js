@@ -488,3 +488,14 @@ function clearTree() {
   vis.selectAll("path.link").remove();
   vis.selectAll(".graphTitle").text("");
 }
+
+// Tooltip helper: long description for an abbreviation from abbs.js (abbList),
+// falling back to the name itself so the tooltip never throws.
+function findAbbDescription(name){
+  if(typeof abbList !== 'undefined'){
+    for(var i = 0; i < abbList.length; i++){
+      if(abbList[i][0] === name){ return abbList[i][1]; }
+    }
+  }
+  return name;
+}

@@ -448,47 +448,82 @@ function randomIntFromInterval(min,max)
     return Math.floor(Math.random()*(max-min+1)+min);
 }
 
+// Incremented on every loadGraph call; responses from older calls are ignored.
+var loadSeq = 0;
+
+function restoreDatasetSelect(ds){
+  if(!ds){ return; }
+  var sels = document.getElementsByTagName("select");
+  for(var i = 0; i < sels.length; i++){
+    for(var j = 0; j < sels[i].options.length; j++){
+      if(sels[i].options[j].value === ds){ sels[i].selectedIndex = j; return; }
+    }
+  }
+}
+
 function loadGraph(gene, dataset, probe){
-  currentDataset = dataset;
+  var mySeq = ++loadSeq;
+  var isStale = function(){
+    if(mySeq !== loadSeq){
+      console.log("Ignoring stale response for", gene, dataset);
+      return true;
+    }
+    return false;
+  };
+
+  // Keep the dataset that is actually drawn until the new gene is found.
+  var prevDataset = currentDataset;
+  if(!prevDataset){ currentDataset = dataset; }
+
+  var notFound = function(){
+    if(prevDataset && prevDataset !== dataset){
+      currentDataset = prevDataset;
+      if(typeof datasetChanged !== 'undefined'){ datasetChanged = false; }
+      restoreDatasetSelect(prevDataset);
+    }
+    if(gene == ""){
+      alert("You must enter a gene name to view a visualization on the graph below.");
+    } else {
+      alert("Gene or signature is not expressed, or is not annotated in this dataset.");
+    }
+  };
+
   console.log("Getting data: ", "php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset))
   d3.json("php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset), function(error, dataLookUp) {
+    if(isStale()){ return; }
     if(error){ return console.log(error); }
     if(typeof dataLookUp !== 'undefined' && dataLookUp.length > 0) {
       gene = dataLookUp[0].gene_name;
+      currentDataset = dataset;
       processDatalol(gene, dataset, probe, dataLookUp);
       window.history.pushState("object or string", "Title", "/?gene="+ gene +"&dataset=" + dataset);
     } else{
       console.log("Looking up Alias: ", "/php/lookUpAlias.php?alias=" + encodeURIComponent(gene))
       d3.json("/php/lookUpAlias.php?alias=" + encodeURIComponent(gene), function(error, aliasLookUp) {
+        if(isStale()){ return; }
         if(error){ return console.log(error); }
         else if (typeof aliasLookUp == 'undefined' || aliasLookUp.length < 1) {
-          if(gene == ""){
-            alert("You must enter a gene name to view a visualization on the graph below.")
-          } else {
-            alert("Gene or signature is not expressed, or is not annotated in this dataset.");
-          }
+          notFound();
           return console.log("No gene or alias found.")
         }
         else if(typeof aliasLookUp !== 'undefined' && aliasLookUp.length > 0) {
           gene = aliasLookUp[0].name;
           console.log("Getting data after alias: ", "php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset))
           d3.json("php/getdata.php?gene=" + encodeURIComponent(gene) + "&data=" + encodeURIComponent(dataset), function(error, data) {
+            if(isStale()){ return; }
             if(error){ return console.log(error); }
             else if (typeof data == 'undefined' || data.length < 1) {
-              if(gene == ""){
-                alert("You must enter a gene name to view a visualization on the graph below.")
-              } else {
-                alert("Gene or signature is not expressed, or is not annotated in this dataset.");
-              }
+              notFound();
               return console.log("Alias found, but no gene was found.")
             }
+            currentDataset = dataset;
             processDatalol(gene, dataset, probe, data);
             window.history.pushState("object or string", "Title", "/?gene="+ gene +"&dataset=" + dataset);
           });
         }
-      }); 
+      });
     }
-    
+
   });
 }
 
