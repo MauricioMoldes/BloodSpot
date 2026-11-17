@@ -1,14 +1,15 @@
 <?php
 
-  $database = "crn8b5v25_fobinf_comhemaexplorer";    
+  require_once __DIR__ . "/config.local.php";
+  $database = $DB_CONFIG["database"];    
 
   function db_connect() {
-    global $database;
-    $hostname = "localhost";
-    $username = "crn8b5v25_fobinf_comhemaexplorer";
-    $password = ".Hist0ric@l.Eur0pe@n,M@rti@l-@rts";
+    global $database, $DB_CONFIG;
+    $hostname = $DB_CONFIG["host"];
+    $username = $DB_CONFIG["user"];
+    $password = $DB_CONFIG["password"];
 
-    $port = 3306;
+    $port = $DB_CONFIG["port"];
 
     try {
       $dbhandle = mysqli_connect( $hostname, 
@@ -72,7 +73,7 @@
   }
 
   function db_validate_table_name($dbhandle, $table_name) {
-    global $database;
+    global $database, $DB_CONFIG;
     $table_results = mysqli_query($dbhandle, "SHOW TABLES");
     
     while ($tables_row = db_fetch_array($table_results)) {

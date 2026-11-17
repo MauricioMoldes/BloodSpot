@@ -9,3 +9,4 @@ tmp/
 www/surv/*.zip
 www/surv/survplots/
 www/surv/survplotsPNG/
+httpd-private/libraries/config.local.php
