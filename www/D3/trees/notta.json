@@ -1,0 +1,29 @@
+{
+    "id":1,
+    "size":1,
+    "visualize":0,
+    "draw_parent_line":1,
+    "name": "",
+    "children": [
+        {
+            "id":2,
+            "size":1,
+            "visualize":1,
+            "draw_parent_line":0,
+            "name": "HSC",
+            "children": [
+                {"id":3,  "size":1, "visualize":1, "draw_parent_line":1, "name": "MPP--"},
+                {"id":4,  "size":1, "visualize":1, "draw_parent_line":1, "name": "MPP+-"},
+                {"id":5,  "size":1, "visualize":1, "draw_parent_line":1, "name": "MPP++"},
+                {"id":6,  "size":1, "visualize":1, "draw_parent_line":1, "name": "MLP"},
+                {"id":7,  "size":1, "visualize":1, "draw_parent_line":1, "name": "CMP--"},
+                {"id":8,  "size":1, "visualize":1, "draw_parent_line":1, "name": "CMP+-"},
+                {"id":9,  "size":1, "visualize":1, "draw_parent_line":1, "name": "CMP++"},
+                {"id":10, "size":1, "visualize":1, "draw_parent_line":1, "name": "GMP"},
+                {"id":11, "size":1, "visualize":1, "draw_parent_line":1, "name": "MEP--"},
+                {"id":12, "size":1, "visualize":1, "draw_parent_line":1, "name": "MEP+-"},
+                {"id":13, "size":1, "visualize":1, "draw_parent_line":1, "name": "MEP++"}
+            ]
+        }
+    ]
+}
