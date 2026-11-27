@@ -1,0 +1,70 @@
+<table>
+<thead>
+  <tr>
+    <th>Abbreviation</th>
+    <th>name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Acute promyelocytic leukaemia</td>
+    <td>Acute promyelocytic leukaemia</td>
+  </tr>
+  <tr>
+    <td>AML -CEBPA</td>
+    <td>AML with mutated CEBPA</td>
+  </tr>
+  <tr>
+    <td>AML -NPM1</td>
+    <td>AML with mutated NPM1</td>
+  </tr>
+  <tr>
+    <td>AML inv(3)/t(3;3); RPN1-EVI1</td>
+    <td>AML with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1</td>
+  </tr>
+  <tr>
+    <td>AML, CBF-beta/MYH11</td>
+    <td>AML with inv(16)(p13.1q22) or t(16;16)(p13.1;q22); CBFB-MYH11</td>
+  </tr>
+  <tr>
+    <td>AML, minimal differentiation</td>
+    <td>AML with minimal differentiation</td>
+  </tr>
+  <tr>
+    <td>AML, NOS</td>
+    <td>Acute myeloid leukaemia, not otherwise specified</td>
+  </tr>
+  <tr>
+    <td>AML-MRC</td>
+    <td>AML with myelodysplasia-related changes</td>
+  </tr>
+  <tr>
+    <td>AMLAMoL; RUNX1-RUNX1T1</td>
+    <td>AML with t(8;21)(q22;q22); RUNX1-RUNX1T1</td>
+  </tr>
+  <tr>
+    <td>AMLt(9;11); MLLT3-MLL</td>
+    <td>AML with t(9;11)(p22;q23); MLLT3-MLL</td>
+  </tr>
+  <tr>
+    <td>AMML</td>
+    <td>Acute myelomonocytic leukaemia</td>
+  </tr>
+  <tr>
+    <td>APL</td>
+    <td>Acute promyelocytic leukaemia</td>
+  </tr>
+  <tr>
+    <td>other</td>
+    <td>Other</td>
+  </tr>
+  <tr>
+    <td>t-AML</td>
+    <td>Therapy-related AML</td>
+  </tr>
+  <tr>
+    <td>Unknown</td>
+    <td>Unknown</td>
+  </tr>
+</tbody>
+</table>

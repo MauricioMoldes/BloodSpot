@@ -1,0 +1,42 @@
+<table>
+<thead>
+  <tr>
+    <th>Abbreviation</th>
+    <th>name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>+8/Other</td>
+    <td>Trisomy 8 with other abnormalities</td>
+  </tr>
+  <tr>
+    <td>11q23/Other</td>
+    <td>11q23 (MLL) abnormalities, other</td>
+  </tr>
+  <tr>
+    <td>Complex</td>
+    <td>Complex karyotype</td>
+  </tr>
+  <tr>
+    <td>idt(16)</td>
+    <td>inv(16)/t(16;16)</td>
+  </tr>
+  <tr>
+    <td>ND</td>
+    <td>Not determined</td>
+  </tr>
+  <tr>
+    <td>NN</td>
+    <td>Normal karyotype</td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>Other abnormalities</td>
+  </tr>
+  <tr>
+    <td>t(15;17)</td>
+    <td>t(15;17), acute promyelocytic leukaemia</td>
+  </tr>
+</tbody>
+</table>

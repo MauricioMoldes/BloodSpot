@@ -1,0 +1,54 @@
+<table>
+<thead>
+  <tr>
+    <th>Abbreviation</th>
+    <th>name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>CMP</td>
+    <td>Common myeloid progenitor</td>
+  </tr>
+  <tr>
+    <td>GMP</td>
+    <td>Granulocyte-monocyte progenitor</td>
+  </tr>
+  <tr>
+    <td>HSC</td>
+    <td>Haematopoietic stem cell</td>
+  </tr>
+  <tr>
+    <td>Lin-CD34+CD164+</td>
+    <td>Lineage-negative CD34+ CD164+ cells</td>
+  </tr>
+  <tr>
+    <td>Lin-CD34-CD164high</td>
+    <td>Lineage-negative CD34- CD164 high cells</td>
+  </tr>
+  <tr>
+    <td>Lin-CD34-CD164low</td>
+    <td>Lineage-negative CD34- CD164 low cells</td>
+  </tr>
+  <tr>
+    <td>Lin-CD34lowCD164high</td>
+    <td>Lineage-negative CD34 low CD164 high cells</td>
+  </tr>
+  <tr>
+    <td>MEP</td>
+    <td>Megakaryocyte-erythroid progenitor</td>
+  </tr>
+  <tr>
+    <td>MLP</td>
+    <td>Multi-lymphoid progenitor</td>
+  </tr>
+  <tr>
+    <td>MPP</td>
+    <td>Multipotent progenitor</td>
+  </tr>
+  <tr>
+    <td>PreB/NK</td>
+    <td>Pre-B/NK progenitor</td>
+  </tr>
+</tbody>
+</table>
